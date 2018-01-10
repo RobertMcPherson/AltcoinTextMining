@@ -1,0 +1,226 @@
+Minexcoin
+Low volatility asset
+Draft v1.1
+May 2017
+
+Rationale Abstract……….....……………………………………………………..…………………1 Addressed Issues…………….....…………………………………….…………………1 The Three Whales………………………….....…………………………………………2 Volatility is a Problem……………………………………….......………………………2 Stability as an Answer……………………….....……………………………….………3
+Overview of the MinexCoin project MinexCoin: a Unique Innovative Solution……………………………..................…..4 MinexBank: Smart Algorithms………….………………………………………………4 Hybrid Governance…………….…………………………………………..……………7 Main Exchange……………………………………………………………… ….………7 How It Actually Works…………...............………………………………..……………8 Parking………………....…………………………………………………………………8 Interventions………….…. ……………………………..…………………………………9 Incentivizing Miners…………….........…………………………………….……………9 Market Behaviour……………….....………………………………………….………..10
+Crowdsale Coin Parameters……...............……………………………………………..…………14 Crowdsale Summary…………...………………………………………………………14 Bounty Campaign ………………………………………………………………………16
+Conclusion The Future of Minex………………...........……………………………………………27 Minex Ecosystem……......................…………………………………………………27 Roadmap……………..................……………………………………………..………28 Credits…………………..............…………………………………………………...…29 References ……………..............…………………………………………………...…30
+
+Abstract
+MinexCoin is a global payment system built on the eponymous low-volatility crypto-asset regulated by an autonomous algorithm with methods proven on traditional financial markets.
+MinexCoin asset is a low-volatility cryptocurrency with predictable and dirigible price development. It may be employed both as a means of settlement and a means of saving. Long-term value of the coin is based on its annual growth of 33.6%. In order to reduce its volatility, such supply/demand regulation tools as market interventions and coin parking are used.
+Addressed Issues
+Cryptocurrency is a decentralized blockchain-based financial system, immutability and autonomy being its most celebrated features. Cryptocurrencies enable one to bypass intermediaries and remain independent from traditional financial institutions. However, neither cryptocurrency, including Bitcoin, managed to become a commonly used monetary asset. Merchants and service providers are reluctant to accept cryptocurrency payments as it involves additional risks of exchange losses and regulatory issues.
+An instrument capable of becoming a perfect global payments system is commonly used as a speculative asset. This project is devised as a solution for the fundamental problem in question, and takes into account the problems and challenges faced by the global finance system.
+1
+
+The Three Whales
+We distinguish three kinds of crypto-market actors.
+The first is traders or people making short and medium-term investments in cryptocurrency in order to quickly make profit from exchange margin. The second is investors. Investors are interested in cryptocurrencies as a means of long-term storage and growth of their capital. The third is users or those using cryptocurrencies for routine economic activities like remittances, purchases, etc.
+We believe that users are quite an important group as they make the cryptocurrency sufficiently liquid. However, existing cryptocurrencies hardly meet their demands. As a result, the lack of merchants and service providers causes the numbers of medium and long-term investors to grow slowly because of minor involvement of cryptocurrencies in real economy. The lack of long-term investors not interested in exchange gambling, in turn, enables traders to manipulate currency’s exchange rates thus aggravating its volatility. This vicious circle prevents any crypto-asset from becoming an established means of payment.
+Volatility is a Problem
+High volatility is amongst the biggest disadvantages of bitcoin and similar cryptocurrencies. It hinders it from becoming a means of storage and exchange of value on the global market. Seasoned traders may get high profits from speculating on exchange margins, yet the risks pertaining to uncontrollable price fluctuations scare rookie users and online businesses away from cryptocurrencies.
+2
+
+Stability as an Answer
+Stable cryptocurrencies are the solution enabling merchants to enjoy all the advantages of blockchain technology while keeping away from losses caused my major price fluctuations.
+A stable cryptocurrency is a coin whose price is kept within a certain range with a set of financial mechanisms and algorithms. Existing solutions employ various means to maintain stable prices of their cryptocurrencies. DigixDAO backs every DGX token with an equivalent amount of gold physically stored in a Singapore vault. For that reason, the token’s price correlates with the price of gold. ChronoBank creates its own labor market where each LH token is pegged to the average worth of a work-hour. Tether tokens are backed with U.S. Dollars kept on a private company’s b ank account. MakerDAO maintains stable price of its DAI tokens with a complex red-tape system hardly comprehensible for those lacking profound cryptocurrency savviness.
+In our opinion, the existing projects all feature several fundamental flaws. They’re either pegged to an unstable asset, and therefore can’t be considered currencies with stable and predictable purchasing power; or backed by an immovable asset, and therefore are of no interest for traders and investors; or, while promising some predictable profit to their investors, lack transparency; or make it too hard for an average user to assess their price growth.
+MinexCoin offers an innovative solution which creates an autonomous financial system that meets the demands of all three kinds of market actors.
+3
+
+MinexCoin: a Unique Innovative Solution
+There are two factors that make MinexCoin unique: — Low volatility of the coin (within a five-percent range) achieved autonomously with traditional financial tools; — Predictable and controllable annual growth of the coin’s price which correlates with average annual price growth calculated for a portfolio of most popular altcoins (around 33.6 per cent).
+Thanks to its unique features, MinexCoin is a multi-purpose tool equally useful for trading, long-term investment and routine financial operations.
+Traders, whose speculations often tend to destroy cryptocurrency ecosystems, have a constructive role in MinexCoin’s system. Encouragement of trading activity will become a tool that the coin’s autono mous algorithm uses to keep the token’s price within a certain range.
+Controllable price surge over time will make the coin a profitable asset for investors. Coin parking, which is the second volatility control tool in MinexCoin, meets the strategy of medium and long-term investment.
+Finally, thanks to price predictability, easy conversion and high-speed transactions, regular users and online retailers will be able to use MinexCoin as means of payment and value storage. MinexCoin excludes both exchange losses and service payments.
+MinexBank: Smart Algorithms
+MinexCoin tackles the issue of high volatility by automatically regulating demand and supply at exchanges. To do that, it uses certain algorithms that encourage coin holders to buy, sell or keep their assets depending on the balance of supply and demand at the given time. Those algorithms resemble activity of central banks that maintain the cost of their national currency, so they are collectively known as MinexBank.
+4
+
+For functioning of an algorithm of modifying interest rates on “parking” operations, in real-time the following steps are to be completed:
+1. To determine an average weighted cross-rate of MNC/$ to a basket of 10 currencies, which are in the top as for the capitalization level, in real-time.
+2. To correlate an average weighted cross-rate of MNC to the capitalization level and a share in total capitalization of each of 10 specified currencies.
+The formula for determining an average weighted cross-rate of MNC to the basket of currencies is as follows:
+10
+= ∑( * * ); =1
+Where is an average weighted cross-rate of MNC/$. A simplified version of the formula is as follows:
+= ( 1 * * 1) + ( 2 * * 2) + ( 3 * * 3) + ... + ( 10 * * 10);
+Where is an average weighted cross-rate of MNC/$, 1, 2, 3 … 10 is a current rate of each currency to BTC, is a current rate of BTC to USD, 1 , 2, 3… 10 is a current market capitalization of each currency,
+is the total market capitalization of Top 10 cryptocurrencies. In such a way we get unbiased cross-rate of MNC to USD. The
+change of this rate is influenced not only by the price of Bitcoin, but also by prices of all other highly liquid cryptocurrencies. In addition, in real time an average weighted rate of MNC is correlated to the change of capitalization of each currency separately, and the total capitalization of these cryptocurrencies.
+In fact, we are locking the MNC rate to a basket of cryptocurrencies; that is more unbiased marker of MNC price, compared to locking using cross-rate of Bitcoin only.
+5
+
+3. To set index of estimated value of MNC at time, on the basis of the increase of МNС estimated value by 33.6% per year. Since calculation of estimated value of MNC is to be made with a frequency of 1 second, calculation of change in price per second is to be made using a formula as follows:
+= 0* ;
+Where is a current estimated value of MNC to USD, 0 is a price of MNC to USD, following the outcome of the second stage of ICO, is the amount of time in seconds passed since the start of Minexbank algorithm operation up to the present moment,
+is an index of the increase of MNC price per second, which is calculated using the formula as follows:
+
+= √1.336;
+
+Where
+
+is the amount of seconds in a year,
+
+=365*24*60*60=31 536 000.
+
+Therefore:
+
+= 31449600√1.336;
+
+4. To enable the algorithm to compare two indexes, and change “parking” operations discount rates in case of deviation of current price from the calculated one.
+Changes of “parking” operations rate will be carried out taking into account such market figures as quantity demanded, quantity supplied and price velocity, rather than using the positive correlation principle.
+
+6
+
+MinexBank is a closed source app, though some of its features are accessible to users via the official website. At MinexBank, users may browse existing interest rates for parking payments, and file up a request to receive interest for coin parking operations. In order to protect the assets, the bank’s reserve is stored in cold wallets.
+Hybrid Governance
+At present stage, MinexBank uses hybrid governance, which implies that the algorithm’s decisions are monitored by a group of professional economists. At early phases of the system’s operation, the team reserves the right to introduce amendments to the algorithm’s parameters in order to promptly prevent emerging risks and guarantee steady work of the entire system.
+Once the algorithm is fine-tuned, MinexBank will become a decentralized autonomous organization. At final phases, the platform’s financial activity will be completely free of human involvement, and use algorithms set earlier.
+Main Exchange
+While assessing market conditions, MinexBank will invoke asset price at the main exchange, which is the exchange where MinexBank stores, buys and sells its assets. The selected exchange will have to be the most secure of all currently in existence. Prices for assets traded elsewhere will correlate with those at the main one thanks to trader arbitration.
+7
+
+How It Actually Works
+The main purpose of MinexBank is to stabilize the exchange rate within the range of no more than 5% of the previous day’s closure price. The five per cent growth owes to the practice of global stock exchanges. Once the values are reached, stock markets halt the trading, thus preventing speculators and misguided investors from dictating their own prices.
+Once the limit values of the five per cent range are reached, MinexBank has two options: it either changes interest rates for parking payouts, or intervenes to keep the price within the preset range. Coin parking and intervention are the basic financial instruments used by MinexBank.
+Parking
+Parking means that coins are voluntarily withdrawn from the market by a user who temporarily suspends them in their wallet. The ‘parking’ user is eligible to receive interest. Users will be able to choose the type of parking depending on the time they undertake to store coins in their wallets without using them online. There are three kinds of parking:
+Day (24 hours): for short-term impact Month (30 days): for medium-term impact Annual (365 days): for long-term impact.
+Average reference rate for parking payouts will gradually go down, yet, thanks to MinexCoin price’s growth, the actual parking revenue will only grow over time.
+Average basic rates for parking payouts:* 2017: 70% 2018: 45-55% 2019: 25-40%
+8
+
+*The values are determined as default and may be altered by MinexBank algorithms either way depending on market conditions. If a user withdraws all money from their wallet, MinexBank does not award interest regardless of how much time there is until parking ends. If, after parking their coins, the user withdraws a part of their money, the system awards interest for the parking contract concluded first in case its amount does not exceed current balance of the user’s wallet.
+
+Interventions
+
+Intervention means that MinexBank buys or sells MinexCoin to keep the exchange rate within the predetermined range.
+
+Initially, MinexBank has an MNC reserve with an option of continuously filling it up so that the system could work on a long-term basis and suppress possible speculative attacks.
+
+The initial reserve is formed by premining 1,500,000 coins. Once there are more MinexCoins on the market due to additional issuance (miner work rewards), the reserve will have to be replenished and eventually expanded. The growth will be ensured by the progressive percentage of payments to MinexBank for each block solved by miners.
+
+Blocks 1 - 900 001 Blocks 900 001 - 1 800 000 Blocks 1 800 001 - 2 700 000 Blocks 2 700 001 - 3 600 000 Blocks 3 600 001 - 4 500 000 Blocks 4 500 001 - 5 400 000
+
+= 20% = 30% = 40% = 50% = 60% = 70%
+
+9
+
+Incentivizing Miners
+Miner reward for each formed block comprises 2.5 MinexCoin. Miners will make progressive payments to MinexBank until block 5,400,000 is reached. Considering the coin will be worth more over time, fiat equivalent of miner reward, notwithstanding the continuously growing payments to the bank, will grow. This will result in increase of the system’s overall capacity, and therefore, its complexity. Starting from block 5,400,001 miners will pay stable 20 per cent to MinexBank. The reward, which is around 2.5 MNC, will be composed of user fees paid for transactions. The transaction fee itself will comprise 0.00001 MNC. In order to participate in processing, i.e. mining, each miner has to suspend the amount of coins corresponding to its mining capacity. The amount is calculated as 1 MNC per 1 Th/s.
+Market Behaviour
+In practice, the MinexBank algorithm uses a simple and efficient pattern. As there are three possible options for market behavior (excessive demand, excessive supply or supply/demand equilibrium), there are three strategies for MinexBank behavior as well.
+10
+
+Excessive demand
+In case of excessive demand, the interest rate for parking payments will decrease. This will cause asset holders to enter the market, which in turn will cause the price to go down. In case this method fails to work effectively enough, MinexBank starts selling the assets itself in order to subdue pressure from buyers.
+11
+
+Excessive supply
+In case of excessive supply, the interest rate for parking payments grows, thus withdrawing the excessive amount from the market. In case this method fails, MinexBank buys the assets to subdue pressure from sellers.
+12
+
+Supply/demand equilibrium
+In this case, MinexBank does nothing as the price remains within the predetermined range.
+13
+
+Coin parameters
+Total amount: 19 000 000 MNC Block rewards: 2.5 MNC Hashing algorithm: Mars Block size: 2 MB Block time: 2 min 45 sec
+Distribution
+Premining: 5 500 000 MNC ICO (subscription + presale + bonuses): 2 700 000 MNC Bounty: 300 000 MNC MinexBank reserve: 1 500 000 MNC Developers’ and advisors’ capital: 1 000 000 MNC
+Crowdsale Summary
+MinexCoin (MNC) is based on Bitcoin’s source code. We chose bitcoin’s code base due to its proven reliability. In order to accelerate transactions, block size was increased to 2 MB while block time was reduced to 2 minutes and 45 seconds.
+Most stable cryptocurrencies use two kinds of assets in overall turnover: traded token shares and a stable coin. During initial coin offerings, investors are commonly offered to buy shares, not stable coins.
+MinexCoin will use a single coin employed both as a means of payment and as a share. This approach further protects MinexCoin system from speculator interference. Another important advantage for investors is that they receive a reliably stable asset over the ICO, not yet another highly volatile token.
+14
+
+MinexCoin’s ICO campaign incorporates two phases: Phase one (Subscription) is set to determine applicability, importance and value of the very concept of creating a low volatile and steadily growing asset, and inviting prospective users to discuss the matter. ICO Phase One (Subscription) terms: October 6th, 2016 to December 28th, 2016 Cost of coins/Bonuses for early participants of Phase One (Subscription):
+The purpose of Phase Two (Pre-sale) is to determine the market price of the coin immediately before entering the exchange. The same price is the basic value in MinexBank’s policy, and is calculated as follows:
+Y = ( X + Х1 ) / Z where Y stands for market exchange rate (basic value in the bank’s algorithm); X for volume of involved investor funds; X1 for absolute volume of bonuses accrued by early participants; Z for the amount of coins available for the ICO. Phase Two (pre-sale) terms: May 15th, 2017 to June 13th, 2017. Bonuses for early participants of Phase Two (Pre-sale):
+15
+
+All money raised over the first two phases of the ICO will be spent on development and marketing of the product. The coins are subject to distribution among investors the day after the ICO’s completion.
+Bounty Program
+Time frame of bounty campaign: March 29, 2017 – June 13, 2017 During a public stage of ICO, you can get Minexcoin by joining the project community and participating in our bounty campaigns. For early marketing and rewarding active participants of our community, we will reserve 300 000 MNC. To start participation in the bounty campaign, please complete registration using a link: http://minexcoin.com/?r=bounty/signin
+16
+
+Sections:
+• Newsletter subscription • Facebook • Twitter • BitcoinTalk signatures • Translations • Activity on BitcoinTalk forum • Publication of information about the project on other websites • Creation of topics on other forums and maintaining their activity • Banner on the website • Video on YouTube • Interviews with journalists • Contact details of journalists and analysts: • News referrals • Bugs • Ambassadors
+Newsletter subscription: 3 000 MNC Reward: 10 shares To get a reward: 1. Subscribe to the project’s news on the main page of the project 2. Confirm the subscription in personal account of the bounty campaign Shares crediting: Instantaneously
+17
+
+Facebook: 27 000 MNC Reward:
+• Like our Facebook page: 10 shares • Leave comments on the Facebook page: 20 shares / comment • Share posts from our Facebook page: 30/ share • Like our posts: 10 shares / like of a post
+To get a reward: Add your personal Facebook account in personal account of the bounty campaign
+Shares crediting: Every week
+Twitter 27 000 MNC Reward:
+• Subscribe to Twitter account of Minexcoin: 20 shares • Retweets • 10 shares / retweet, if your newsfeed has up to 300 users • 20 shares / retweet, if your newsfeed has up to 1000 users • 50 shares / retweet, if your newsfeed has 1000+ users • Like our tweets: 10 shares/ tweet like To get a reward: Add your Twitter account in personal account of the bounty campaign Shares crediting: Every week
+18
+
+BitcoinTalk signatures 36 000 MNC • • •
+• •
+•
+3. Make at least 20 posts per week Shares crediting: Every week
+19
+
+Translations 15 000 MNC Reward:
+• Translation of BitcoinTalk Topic: 100 shares • Translation of the website: 100 shares • Translation of WhitePaper: 200 shares To get a reward: Reserve a translation Reservation of BitcoinTalk Topic translation: https://goo.gl/forms/2CJW7Q9rIPgqtRax1
+Reservation of website translation: https://goo.gl/forms/B7hkjII0n5qV6MmV2
+Reservation of WhitePaper translation: https://goo.gl/forms/ctN6qfy3iBBU3LDd2
+Lists of reservations: https://docs.google.com/spreadsheets/ d/1F_0uHAaO3W2UXGEDjJ9ENKaRZjBpXg3EosQOshfQN44/edit? usp=sharing Shares crediting: After receiving a translation and veri cation by administrator
+20
+
+Shares crediting: Every week
+Shares crediting: Every week
+21
+
+Creation of topics on other forums and maintaining their activity 30 000 MNC Reward: A topic creation: 50 shares Message in this topic: 10 shares Requirements: Specify your Bounty ID in the topic for identification of the author To get a reward: Choose “New forum topic” in your personal account and add link to a new topic. Shares crediting: Every week Banner on the website 12 000 MNC Reward: Depending on the website traffic, location and size of the banner. Specify information about the amount of the reward (minexcoinorg@gmail.com). To get a reward: Choose “Banners” in your personal account and add link to your website with a banner. Shares crediting: Every week
+22
+
+Video on YouTube 15 000 MNC Reward: Video review of the project: 25 mnc Requirements: Duration: at least 2 minutes Number of subscribers: more than 500 To get a reward: Choose “YouTube” in your personal account and add link to the video. Shares crediting: Every week Interviews with journalists 12 000 MNC Reward: 100 MNC Requirements: Provide a Skype/chat interview, followed by a publication of an article, audio or video interview. To get a reward: Contact us: minexcoinorg@gmail.com Shares crediting: After material publication
+23
+
+Contact details of journalists and analysts 9000 MNC:
+Reward: 10 MNC
+Requirements: Name, previous publications, Twitter, e-mail and telephone/Skype.
+To get a reward: Send us a message with a letter subject: “Contact details of journalists”, and in the letter specify Name, previous publications, Twitter, e-mail and telephone/ Skype of the journalists.
+Shares crediting: After verification by administrator. Once per week.
+News referrals 9000 MNC:
+Reward: 10 shares
+Requirements:
+To get a reward: 1. Copy your referral link in your personal account 2. Publish a link in your blog or social media pages 3. After user’s subscription to project’s news, shares will be credited. Lots crediting: Every week
+Bugs 15 000 MNC
+Reward: Individually (Depending on criticality level of bug) To get a reward: Report an error in operation of services or programming code to the e-mail: minexcoinorg@gmail.com Shares crediting: Immediately after bug determination
+24
+
+Ambassadors 12 000 MNC • • • • 1. email: minexcoinorg@gmail.com 2.
+25
+
+Reserve 15 000 MNC We are reserving 15 000 MNC for unforeseen situations and replenishment of drained reward funds. If you have any other ideas on how to tell the world about the Minexcoin project and make the bounty campaign more successful, please let us know. Every idea will be adequately rewarded. If you have any questions regarding the bounty campaign, do not hesitate to contact us: minexcoinorg@gmail.com
+26
+
+The Future of Minex
+MinexBank’s monetary policy serves the main purpose of making MinexCoin a global reserve cryptocurrency. In order to attain it, MinexCoin will have to meet the following principles:
+- Simplicity and high speed of transactions - Exchange rate stability and predictability against U.S. Dollar - Market cap of $1 trillion
+MinexBank will consistently administer policy of increasing MNC price against USD on the basis of the growth rate of 33.6% annually. Once MinexCoin issuance is over at block 5,400,000, its price will reach $52,600, and market cap $1 trillion. This market cap will allow for using MNC as a global payment unit as the volume of available dollars will have comprised 4.5 to 5 trillion at the time in question, should the existing trend persists.
+Minex Ecosystem
+The Minex Systems team intends to implement extended functionality of Minex Ecosystem by incorporating such applications as Minex Market, Minex Exchange, and Minex Platform. Implementation of those products seeks to expand the coin’s sphere of circulation, thus driving demand for it.
+27
+
+Roadmap
+28
+
+Credits
+For their comments and feedback the authors wish to thank: The National Economic University of Kyiv S. Arzhevitin, the Head of the Association of Ukrainian Banks V. Lavrenchuk, the Chairman of the Board at Raiffeisen Bank Aval Alexander Solop, the Chairman of the supervisory council at Arsenal Insurance
+29
+
+References
+http://www.lloyds.com/~/media/files/news%20and%20insight/risk%20i nsight/2015/bitcoin%20%20final.pdf http://www.imf.org/external/pubs/ft/sdn/2016/sdn1603.pdf http://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemesen.pdf
+30
+
+

@@ -1,0 +1,394 @@
+White Paper
+20th June, 2017
+
+Table of Contents
+
+Table of Contents
+
+2
+
+1. Executive Summary
+
+4
+
+2. Inspiration
+
+5
+
+2.1 Why?
+
+6
+
+2.2 Noise Monitoring Today
+
+6
+
+2.3 Problems we solve
+
+7
+
+2.4 Our Solution
+
+7
+
+3. Value Proposition
+
+8
+
+3.1 Low Cost
+
+8
+
+3.2 Live Monitoring
+
+8
+
+3.3 Instant Compensation
+
+9
+
+3.4 Trusted Results Via Blockchain
+
+9
+
+3.5 Empowering
+
+9
+
+4. Market Size
+
+10
+
+4.1 Market Segments
+
+11
+
+4.2 Marketing Strategy
+
+12
+
+5. Revenue Projections
+
+13
+
+6. How Decibel.LIVE works
+
+15
+
+6.1 Contract Setup
+
+15
+
+6.2 Registration Of Interested Parties
+
+16
+
+6.3 Noise Data Collection
+
+17
+
+6.4 Payouts
+
+17
+
+7. Platform Architecture
+
+18
+
+7.1 System Architecture
+
+18
+
+8. Roadmap
+
+20
+
+8.1 Prior to First Contribution Period
+
+20
+
+8.2 Following the First Contribution Period
+
+21
+
+8.3 Future plans
+
+21
+
+9. Team
+
+23
+
+2
+
+10. Token Sale
+
+24
+
+10.1 First Contribution Period
+
+24
+
+10.1 Second Contribution Period
+
+24
+
+11. Budget
+
+25
+
+11.1 Minimum Contributions
+
+25
+
+11.2 Moderate Contributions
+
+26
+
+11.3 Maximum Contributions
+
+27
+
+11.4 Expense Categories
+
+27
+
+12. Governance
+
+29
+
+13. Disclaimers
+
+30
+
+3
+
+1. Executive Summary
+Decibel.L​ IVE is a revolutionary noise monitoring platform that seeks to disrupt the noise monitoring industry using blockchain-based smart contracts with verifiable results & compensation direct to impacted parties. Noise monitoring will be done at multiple GPS locations using our proprietary smartphone app and also using our branded hardware solutions for fixed point monitoring locations. Customers will be charged a monthly subscription fees, a commission (1%) on contract payouts and also for hardware purchased. Other revenue is expected to come from local authorities for monitoring data provided & advertising income.
+The Decibel.​LIVE crowdsale will commence on the [TO BE ANNOUNCED] with a contribution period of 14 days. Participants in the crowdsale will be issued with an Ethereum ERC20 token designated ‘​BEL’​ at the rate of 5,000 BEL to 1 ETH (with a bonus allocation in the first 24 hours)..
+We aim to be..
+1. The World’s #1 noise monitoring solution. 2. Extremely accurate. 3. Easy to use. 4. Recommended by happy customers. 5. Trusted.
+4
+
+2. Inspiration
+Imagine a world where quiet existence is the norm. A world where your right to a quiet existence is virtually guaranteed by instant financial disincentives to those whose behaviour exceeds acceptable social parameters. These parameters vary by time of day, day of week or location and are self-regulating. Financial disincentives are levied instantly by smart contracts to those who partake in behaviour ‘outside the norm’ and then automatically redistributed to impacted parties as payments for loss of quiet existence.
+5
+
+2.1 Why?
+Noise, or unwanted sound, is one of the most common environmental exposures. For example, in New York City noise is consistently the number one quality of life issue, and authorities there received > 40,000 noise complaints in 2012 (Metcalfe 2013).
+Excessive noise causes a wide variety of adverse health effects, including sleep disturbance, cardiovascular disease, hearing loss, and increased incidence of diabetes (Passchier-Vermeer and Passchier 2000; Sorensen et al. 2013).
+The World Health Organisation (WHO) recommends annual average night exposure should not exceed 40 decibels (dB), corresponding to the sound from a quiet street in a residential area. Persons regularly exposed to higher levels can suffer mild health effects, such as sleep disturbance and insomnia and long-term exposure to levels above 55 dB, similar to the noise from a busy street, can trigger elevated blood pressure and heart attacks (source: WHO website).
+2.2 Noise Monitoring Today
+Control of noise is predominantly the responsibility of local municipalities or authorities. Local ordinances or bylaws generally include nuisance regulations. There is no consensus on what should be included in a noise ordinance, therefore, noise control requirements vary widely across the U.S and also in other regions of the world. Often, a typical local ordinance is vague and might state, “It is unlawful for any person to make, or cause to be made any noise disturbance”
+Actual quantitative sound level limits are imposed in some states, municipalities, councils and authorities. For example the ordinance might state “The sound level at the boundary of a residential receiving property resulting from the operation of a source on the emitter’s property shall not exceed 45 dBA during nighttime”. Sometimes more detail regarding the method of measure to determine compliance is provided, such as “The statistical median sound for a one-hour period between the hours of 10 p.m. and 7 a.m. shall not exceed 50 dBA.”
+6
+
+2.3 Problems we solve
+1. Response time - the response time can vary from a few hours of a complaint being received, to days or even weeks. Often by the time the complaint(s) is followed up the noise is not the nuisance it was at the time of complaint.
+2. Bias - Often both sets of impacted parties employ consultants resulting in messy arbitration or legal proceedings. Unless a mutually agreed noise consultant is engaged then individual consultants may be tempted to skew results to favour the company or individual(s) they are employed by.
+3. Costs - local municipalities or authorities incur significant costs in administering noise enforcement activities. Further, if noise control progresses to legal proceedings costs can quickly escalate for all parties.
+4. Reparation - impacted parties rarely receive any financial compensation for loss of quiet enjoyment.
+2.4 Our Solution
+
+Decibel.L​ IVE
+
+INSTANT, DIRECT, FAIR
+
+Decibel.LIVE will provide a mechanism where businesses or property owners can interact directly with impacted parties (i.e. nearby residents or other businesses) thus creating a 'social contract’ providing financial compensation should pre-set conditions not be met. This will enhance the reputation of the business and decrease the need for monitoring by local authorities, enforcement agencies and/or noise consultants.
+
+“A socially responsible company is one which realises that whilst it may not be able to eliminate all noise generated, it can compensate those that are adversely impacted by residual noise”
+​ Shane Loomb, Co-Founder Decibel.LIVE
+
+7
+
+3. Value Proposition
+3.1 Low Cost
+Decibel.LIVE will be the most affordable noise monitoring solution in the market. Decibel.LIVE contracts will be able to be initiated for a small monthly fee in contrast to current noise monitoring which requires specialist equipment and acoustic consultants/engineers costing thousands (and in some cases hundreds of thousands) of dollars. Often each party engage their own noise consultant, whereas the Decibel.LIVE platform will enable parties to mutually agree on a noise consultant or even completely avoid the need for a consultant by agreeing to use smartphone monitoring and/or our branded noise monitoring hardware.
+3.2 Live Monitoring
+The Decibel.LIVE smartphone app will be free to download, easy to use and accurate to within 1.5 decibels (dB). Users will be able to see results in real time and given their involvement in the monitoring process will have enhanced satisfaction with the outcome.
+8
+
+3.3 Instant Compensation
+Impacted parties will receive instant financial compensation based on noise contract parameters. Payments will be made direct to their online wallet in Decibel tokens (BEL’s) which will be able to be easily converted into a range of different digital and traditional currency options.
+3.4 Trusted Results Via Blockchain
+Acoustic results are analysed and immutably stored using blockchain technology. These results are cryptographically hashed then submitted hourly to the Ethereum blockchain and therefore able to be verified by all interested parties.
+3.5 Empowering
+Decibel.LIVE will provide a mechanism where businesses or property owners/managers can interact directly with impacted parties (i.e. nearby residents or other businesses) thus creating a 'social contract’ with financial compensation should conditions not be met. Impacted parties will feel empowered using their smartphone to monitor the noise and with increased real-time visibility of results & compensation will have greater tolerance of the offending noise.
+9
+
+4. Market Size
+Research indicates significant growth in environmental sensing and monitoring market in the next 4 years1. Gartner predicts more than 20 billion connected IoT devices in the same period2.
+$​20 Billion
+Environmental Sensing & Monitoring Market by 2021
+20 Billion ​devices
+Connected devices in use by 2020
+CAGR 6.42 %​
+2017 - 2021
+1 h​ ttps://www.technavio.com/report/global-power-global-environment-monitoring-and-sensing-market-2017-2021 2 https://www.gartner.com/newsroom/id/3598917
+10
+
+4.1 Market Segments
+Decibel.LIVE will target the following verticals through a combination of direct & relationship marketing, with primary channels being online promotion & tradeshows.
+EVENTS
+Promoters of Concerts or Sporting events will be able to provide direct compensation to nearby residents during for the exact dates that the event is held. Often these events are situated near residential areas and attract numerous complaints during the course of the event. Decibel.LIVE will provide a means for event promoters to compensate impacted parties during short duration periods where noise exceeds acceptable limits, thus helping to ensure the long-term viability of their event.
+ACCOMMODATION
+Hotels and apartment owners, using Decibel.LIVE will have a mechanism to control excessive noise made by guests or residents. They will be able to charge residents or guests a bond which will be used to fund a noise monitoring contract with the owners or other guests/residents stipulated as beneficiaries. If maximum noise levels in the Hotel or Apartment are not exceeded, the guest or resident is automatically reimbursed their full bond amount. If the noise limits are exceeded, payments are automatically made to other guests or directly back to the owners. We envisage this service will be beneficial to AirBnB providers who will be able to ensure that their guests adhere to a reasonable level of behaviour.
+11
+
+CONSTRUCTION
+Construction/demolition companies are able to operate during business hours but need to be cognisant of minimising excessive noise. There are periods where due to time constraints these companies would value the opportunity to extend their working hours. Decibel.LIVE provides a means to provide compensation to those impacted by this noise during heavy construction.
+MANUFACTURING
+Manufacturing plants will be able to provide compensation to nearby residents, other business owners or even employees for noise that is above acceptable limits.
+HOSPITALITY
+Restaurants & Bars will be able to select specific time bands in the evening and even specific days of the week, providing compensation to nearby residents for the short time period that they may be considered a nuisance (i.e. 11pm-1am).
+TRANSPORT
+Airports, Train Stations & Roading Companies will be able to provide compensation to residents or businesses that are near hub operations or impacted along movement routes. We intend to develop an API for airports to automatically generate contracts specific to each airline and flight arrival/departure.
+12
+
+4.2 ‘Go-to Market’ Strategy
+Following the successful completion of our crowdsale, the Decibel.LIVE website will be modified to better promote the merits of our product. There will be options to select a subscription plan, create an account and generate noise monitoring contracts instantly. The website will also provide tips & suggestions for business owners on how to reach out to their impacted parties (beneficiaries).
+We have first-mover advantage in this new sector of the noise monitoring market and our customers will also have a first-mover advantage and the opportunity to attract favorable PR. Our approach to market will be to target the following verticals through a combination of direct marketing, online marketing, strategic partnerships, and commission-based sales representatives.
+1. ACCOMMODATION - s​ trategic partnerships through initially approaching AirBnB but also smaller accommodation websites offering a commission payment on subscription sales or hardware sales (Decibel.LIVE noise monitoring hardware which will retail at $49). We will also approach property developers & hotel chains using a combination of business development & commission-based sales force.
+2. EVENTS​ - approach event organizers directly or using commission-based sales force. 3. CONSTRUCTION -​ make construction/demolition companies aware that offering a
+Decibel.LIVE noise solution in their tender documents could give them a competitive advantage, particularly in tenders for local or federal/central government jobs. We will also consider offering companies who are 'early adopters' an exclusivity for 6/12 months over their competitors for a restricted geographic region to help gain traction. 4. HOSPITALITY - advertise the benefits of our service in relevant publications & via a direct commission-based sales force. The benefits to the hospitality industry are in staying open later and minimising/mitigating complaints. 5. MANUFACTURING ​- t​ arget manufacturing operations near residential areas again via a commission-based sales force. 6. TRANSPORT ​- e​ stablish strategic partnerships with airports then move into other transport sectors. We will develop API’s to enable airports to load take-off or arrival times into our software which will automatically create time-specific contracts for each airline thus initiating compensation payments excessive noise from low flight paths etc.
+13
+
+5. Revenue Projections
+Decibel.LIVE will launch in Q1 2018. Our sales forecast is demonstrated by the chart below.
+Revenue is generated from subscriptions, commissions, advertising revenue & hardware sales. ● Subscriptions – charges per month for Bronze $9 (1 site), Silver $19 (2-5 sites), Gold $29 (6-10 sites), Platinum $49, (11-50 sites) & POA (51+ sites). ● Commission​ – 1% of all contract payouts to beneficiaries. ● Advertising​ -- display advertising on wallet pages for beneficiaries. ● Hardware -- a Decibel.LIVE noise monitoring device is currently under development that will be marketed to property owners. It will contain a microphone, GPS & bluetooth transmitter and installed similar to a smoke detector.
+14
+
+15
+
+6. How Decibel.​LIVE​ works
+6.1 Contract Setup
+The business (or agent for the noise offender) or property owner/manager visits the Decibel.LIVE website or smartphone app to initiate the contract. Key information collected will be the address of the noise site (used to establish GPS position) and maximum allowable noise readings in Decibels (dB) by timezone throughout day. The contract initiator will have the option to stipulate if they would like noise readings monitored by users of the Decibel.LIVE smartphone app, the Decibel.LIVE noise meter, or an external noise consultant. If a consultant is selected the business will nominate a proposed consultant from a list of recommended consultants on the Decibel.LIVE website. If there are no consultants listed for their geographic region the default will be smartphone app monitoring. If there is more than one consultant for their area the business will be required to nominate a minimum of 2 consultants, with the consultant selected by popular vote.
+16
+
+6.2 Registration Of Interested Parties
+Once the contract is initiated it is listed as an active contract. Nearby residents will be able to request to be added to the contract and a notification automatically sent to the contract Initiator. If the resident is within the specified proximity of the business they will be automatically added as a 'Beneficiary' to the contract (or the business may require a unique code be entered by the resident to join the contract)3. Requests which come from outside the specified proximity zone (i.e. from a local authority for access to 'Monitor' the contract) must be approved by the contract Initiator. If the contract involves an external noise consultant they will be added by the contract Initiator with 'Collector' status. This status will also be automatically applied to residents under the smartphone app option in addition to their status in the contract as a Beneficiary.
+● Initiator - business owner (or agent) ● Beneficiary - resident (or other parties impacted by noise) ● Monitor - local authority (or other enforcement agency) ● Collector - data provider (either noise consultants or smartphone app users)
+3 Note: In the case of Airbnb and property owners it is anticipated that the contract will be initiated at the time of booking with the bond being used to fund the contract and the property owner/manager listed as the beneficiary under the contract
+17
+
+6.3 Noise Data Collection
+Noise data collection can commence at any time but only becomes live once the contract start date is reached. Data will initially be verified using a tolerance algorithm on a separate state channel to minimise calculations that need to be performed within the smart contract thus minimising gas costs. Data which is over tolerance (i.e. readings exceed decibel parameters set by the project Initiator for the time of day) will be will be sent through to the smart contract to initiate payments to Beneficiaries. All readings, regardless of if they trigger a payout will be cryptographically hashed and sent to the contract each hour for subsequent verification.
+6.4 Payouts
+Payouts will be made instantly to contract beneficiaries in Decibel tokens (BEL’s). The DApp platform uses a BEL token (​ß​), an ERC20-compliant token built on top of Ethereum, as the unit of compensation on the blockchain-based platform. BEL’s can exchanged on a cryptocurrency exchange or can be reused on the platform. The distribution of BEL’s and the token supply is determined by a smart contract deployed on Ethereum. Beneficiaries will have an online wallet where they will be credited with payouts from smart contracts. They will then have a number of options for transferring or converting their tokens in other digital currencies or fiat currency.
+18
+
+7. Platform Architecture
+C​DecibelLive creates and deploys new noise smart contracts on behalf of initiators. A noise contract which we denote as C​Noise encapsulates information about the noise site such as the location
+(latitude and longitude coordinates) and Ethereum addresses of N​ beneficiaries a1​ beneficiary...aN​ beneficiary confirmed by Decibel.LIVE as residents living within an area of radius r ​meters from
+the noise site.
+Decibel.LIVE uses Telehash, an encrypted mesh network protocol for communication between the initiator and each beneficiary. Telehash enables a completely distributed, decentralized communication mechanism that doesn’t rely on on centralized or federated servers. When a noise contract CN​ oise becomes active, the initiator and every beneficiary of the contract is assigned a unique Telehash address known as a hashname. A hashname is a 32-byte string that corresponds to the SHA-256 hash of one or more public keys. A link or a channel is created connecting the initiator to every beneficiary of the contract. All messages exchanged on a channel are encrypted end-to-end all of the time using forward secrecy. CP reimage creates a new channel on behalf of an initiator with an opening balance of ßb and hash h = H(σ) where σ is secret chosen by the initiator. ßb is the maximum amount the initiator is willing to pay while the contract is active. The beneficiary joins the channel after confirming the owner of the channel using e​ recover​ function in Solidity.
+For more information on our architecture please refer to our technical paper available on our website.
+7.1 System Architecture
+Decibel.​LIVE platform uses cloud infrastructure in multiple geographically distributed datacenters for high availability and to achieve 99.99% uptime. We use Docker based microservices architecture for fast and reliable deployments and code pipelines for automated image deployments.
+The platform provides a web application, an Android smartphone app and an iOS smartphone app. Customers can use either web application or the mobile application to create new noise contracts, join new contracts, view reports on noise levels and purchase or transfer BEL tokens.
+19
+
+Figure 7.1 System Architecture
+The platform uses overlay networks on virtual machines to ensure privacy and data integrity. Cloud based infrastructure ensures that we can scale microservices up or down as needed to meet the demand and to keep initial setup costs as low as possible.
+20
+
+8. Roadmap
+8.1 Prior to First Contribution Period
+June 2016 - April 2017
+● Researched the market and met with potential customers interested in the product. ● Researched solutions and prepared Technical White Paper describing a working solution. ● Deployed early versions of Noise Monitoring contracts to Ropsten testnet. ● Demos of web application.
+May 2017 - July 2017
+● Selected as finalists at SDO & 1776 Blockchain Challenge Event at Dubai. Presented the product to the Govt. of Dubai and general public.
+● Released Alpha version of Android app. First prototypes of hardware solution.
+8.2 Following the First Contribution Period
+August 2017 - January 2018
+● Deploy noise contracts to Mainnet. ● Complete Android and iOS apps. ● Complete deployment of web application. ● Manufacture a batch of 250 Decibel.LIVE noise monitors for resale.
+Q1 2018
+● Deploy the product at the first customer’s site.
+8.3 Future Plans
+● Integration with existing noise monitoring equipment. ● Acquire customers in Asia-Pacific and Middle East markets. ● Licensing to government agencies supporting green energies and environmental policies.
+21
+
+9. Team
+SHANE LOOMB, CO-FOUNDER Shane is a Chartered Accountant and a recent investor in cryptocurrency projects. He received a BMS (Hons) degree from the University of Waikato and was awarded the G.J. Schmidt prize as top scholar in Corporate Strategy. After a long career in ecommerce he is now a passionate advocate of blockchain business models.
+VIJAY KANDY, CO-FOUNDER Vijay Kandy is a Software Engineer based in Calgary, Alberta. Previously, Vijay worked as an independent consultant developing software for clients in banking, insurance and oil & gas industries. He is pursuing Masters in Computer Science at Georgia Institute of Technology.
+STEVE ANDERSON, BLOCKCHAIN ADVISOR Steve Anderson is a pragmatic futurist and early adopter of Bitcoin, cryptocurrencies and blockchain technology. A software developer by trade, he is a champion of projects that advance the blockchain revolution. He is also the founder and co-host of The Blockchain Show.
+DR RALPH MUEHLEISEN, ACOUSTICS ADVISOR Dr. Ralph T. Muehleisen leads R&D and performs consulting related to acoustics, noise control, and energy efficiency in the built environment. Dr. Muehleisen received his B.S. in Electrical and Computer engineering from the University of Wisconsin-Madison in 1989 and his Ph.D. in Acoustics from Penn State in 1996. He is a Fellow of the Acoustical Society of America (ASA), an Institute of Noise Control Engineering (INCE) Board Certified Noise Control Engineer, a licensed Professional Engineer, and a LEED Accredited Professional. Dr. Muehleisen is the author of over 150 papers, presentations, and patents in areas of acoustics and building energy, and is an active member of ASA, INCE, IEEE, ASTM, IBPSA-USA, ASCE, AISC, and SBSE.
+22
+
+10. Token Sale
+The Decibel.​LIVE​ token sale will commence on [TO BE ANNOUNCED] at 2pm (UTC) and the contribution period will run for 14 days. Details of the
+contribution address will be posted on our website prior to the sale commencing.
+The Decibel.LIVE genesis contract will mint a total of 100,000,000 B​ EL​ tokens (ERC20 tokens).
+All 100,000,000 ​BEL tokens will be distributed across a series of two (2) potential contribution periods, with the first starting on [​ TO BE ANNOUNCED].​ The tokens are distributed as follows:
+
+40,000,000 BEL’s 20,000,000 BEL’s 40,000,000 BEL’s 100,000,000 BEL’s
+
+First Contribution Period starting in 2017 Founders/Team/Advisors Second Contribution Period 2 for Future Stakeholders Total
+
+10.1 First Contribution Period
+Contributions can be made from [TO BE ANNOUNCED] at 2pm (UTC) and will run for a period of 14 days or until the equivalent of 40 million BEL’s or $3.0 million is raised, whichever is sooner.
+Participants in the crowdsale will be issued BEL tokens at the rate of 5,000 BEL to 1 ETH. During the first 24 hours participants will receive a 20% bonus w​ here tokens will be available at the rate of 6,000 BEL to 1 ETH.
+10.1 Second Contribution Period
+A total of 40 million BEL’s will be held in reserve should further funding be required to accelerate growth.
+
+23
+
+11. Budget
+The majority of funds raised will continue the development of Decibel.LIVE software platform & ancillary hardware. The following section describes our budget and use of funds in 3 potential contribution scenarios.
+11.1 Minimum Contributions
+As it is imperative to get ‘first mover’ advantage in the market 6% of the funds will go to marketing. We would have enough funding to prove the concept, gain some customer wins and improve the software UI design. The remaining 4% is allocated to administration & legal.
+24
+
+11.2 Moderate Contributions
+25
+
+11.3 Maximum Contributions
+11.4 Expense Categories
+Software Development
+Funds allocated to software development will go toward: 1. Web hosting on AWS and Digital Ocean 2. Development of web APIs, Android and iOS apps 3. Security audits
+Hardware Development
+Funds allocated to hardware development will be used for designing and manufacturing printed circuit boards (PCBs) in batches, enclosures for the hardware equipment, testing and compliance certification for various markets.
+26
+
+Operational Expenses
+Accounting, governance & stakeholder communications..
+Partnerships and Integration
+Funds allocated to partnerships will be used for integration with other hardware manufacturers such as integration with transducers and acoustic equipment (i.e. from Brüel & Kjær).
+Marketing
+Marketing costs include promotion of noise monitoring equipment at trade shows, online advertising, social media, and sales commissions for direct sales staff..
+Legal
+Patents/trademarks in key markets.
+Decibel.LIVE Fund
+For research and emergency use.
+27
+
+12. Governance
+It is our intention to give token holders a direct influence over all decisions within Decibel.LIVE, including how the software & noise monitoring hardware is developed. The BEL token will be used to make decisions on proposals, which can be made by any token holder. Decentralizing our governance needs to happen over time, given the sheer complexity of the task. It is not something we intend to develop ourselves so we are closely monitoring the progress of decentralized governance projects in the space including Aragon, Boardroom, and Colony. In the short term key decisions, including the spending of funds will require 3 out of 5 signatures from a multisig account where funds from the crowdsale will be held. Initial signatories will be the team & advisors (refer pg 22) with an additional signatory to be added from a reputable source (‘Custodian’). The custodian will monitor the usage of the digital tokens and share it with the community periodically.
+28
+
+13. Disclaimers
+Decibel.LIVE is not a cryptocurrency. At the time of this writing, Decibel.LIVE tokens ‘BEL’s: (i) cannot be exchanged for goods or services, (ii) have no known uses outside the Decibel.LIVE network, and (iii) cannot be traded on any known exchanges, although it is expected they will be traded on exchanges in the future..
+Decibel.LIVE is not an investment. There is no guarantee that your BEL tokens will increase in value.
+Risks Associated with the Ethereum Protocol Decibel.LIVE is based upon the Ethereum protocol. As such, any malfunction, unintended function or unexpected functioning of the Ethereum protocol may cause the Decibel.LIVE network or Decibel tokens to malfunction or function in an unexpected or unintended manner. Ether, the native unit of account of the Ethereum Protocol may itself lose value in ways similar to Decibel tokens, and also other ways. More information about the Ethereum protocol is available at​ http://www.ethereum.org​.
+Risks Associated with Purchaser Credentials Any third party that gains access to the purchaser’s private keys may be able to dispose of the purchaser’s Decibel tokens. To minimize this risk, the purchaser should guard against unauthorized access to their electronic devices.
+Risk of Unfavourable Regulatory Action in One or More Jurisdictions Blockchain technologies have been the subject of scrutiny by various regulatory bodies around the world. The functioning of the Decibel.LIVE network and Decibel tokens could be impacted by one or more regulatory inquiries or actions, including but not limited to restrictions on the use or possession of digital tokens like the Decibel tokens, which could impede or limit the development of the Decibel.LIVE network.
+Risk of Alternative, Unofficial Decibel.LIVE Networks Following the sale and the development of the initial version of the Decibel.LIVE platform, it is possible that alternative competing networks could be established, which utilize the same or similar code and functionality and are on the same network. The official Decibel.LIVE network may compete with these alternative, competing networks, which could potentially negatively impact the Decibel.LIVE network and Decibel tokens.
+Risk of Insufficient Interest in the Decibel.LIVE Network or Distributed Applications It is possible that the Decibel.LIVE network will not be used by a large number of businesses, individuals, and other organizations and that there will be limited public interest in the creation and development of distributed applications. Such a lack of interest could impact the development of the Decibel.LIVE network and therefore the potential uses or value of the Decibel token.
+Risk that the Decibel.LIVE Network, As Developed, Will Not Meet the Expectations of Token Holders The Decibel.LIVE network is presently under development and may undergo significant changes before release. Any expectations regarding the form and functionality of Decibel.LIVE held by the donor may not be met upon release, for any number of reasons including a change in the design and implementation plans and execution of the Decibel.LIVE network.
+29
+
+Risk of Theft and Hacking Hackers or other groups or organizations may attempt to interfere with the Decibel.LIVE network or the availability of Decibel tokens in any number of ways, including without limitation denial of service attacks, Sybil attacks, spoofing, smurfing, malware attacks, or consensus-b​ ased attacks.
+Risk of Security Weaknesses in the Decibel.LIVE network Core Infrastructure Software The Decibel.LIVE network consists of open-​source software that is itself based on open​-source software. There is a risk that the Decibel.LIVE team, or other third parties may intentionally or unintentionally introduce weaknesses or bugs into the core infrastructural elements of the Decibel.LIVE network interfering with the use of or causing the loss of Decibel tokens.
+Risk of Weaknesses or Exploitable Breakthroughs in the Field of Cryptography Advances in cryptography, or technical advances such as the development of quantum computers, could present risks to cryptocurrencies and the Decibel.LIVE platform, which could result in the theft or loss of Decibel tokens.
+Risk of Lack of Adoption or Use of the Decibel.LIVE Network While Decibel tokens should not be viewed as an investment, it may have value over time. That value may be limited if the Decibel.LIVE network lacks use and adoption. If this becomes the case, there may be few or no markets upon the launch of the platform, limiting the value of Decibel tokens.
+Risk of an Illiquid Market for Decibel tokens There is a risk that the Decibel token will be illiquid on whatever exchanges they are traded on resulting in large price fluctuations or the inability to buy and sell tokens.
+Risk of Uninsured Losses Unlike bank accounts or accounts at some other financial institutions, funds held using the Decibel.LIVE or Ethereum network are generally uninsured. In the event of loss or loss of value, there is no public insurer, such as the F.D.I.C., or private insurer, to offer recourse to the purchaser.
+Risk of Dissolution of the Decibel.LIVE Project It is possible that, due to any number of reasons, including without limitation an unfavourable fluctuation in the value of Bitcoin or Ethereum, unfavourable fluctuation in the value of Decibel tokens, the failure of business relationships, or competing intellectual property claims, the Decibel.LIVE project may no longer be a viable project and may dissolve or fail to launch.
+Risk of Malfunction in the Decibel.LIVE Network It is possible that the Decibel.LIVE network malfunctions in an unfavourable way, including but not limited to one that results in the loss of Decibel tokens, or information concerning a market.
+Unanticipated Risks Cryptocurrency and cryptographic tokens are a new and untested technology. In addition to the risks set forth here, there are risks that the Decibel.LIVE team cannot anticipate. Risks may further materialize as unanticipated combinations or variations of the risks set forth here.
+30
+
+Revenue Forecasts & Assumptions The information contained in this document may include certain statements, estimates and projections. Such statements, estimates and projections reflect various assumptions by the Decibel.​LIVE​ team concerning anticipated trends, which assumptions may or may not occur. No representations are made as to the accuracy of such statements, estimates or projections and actual performance may be materially different from that set forth in such statements, estimates or projections. All participants should consider such factors in consultation with a professional advisor of their choosing when deciding if it is appropriate from them to participate in this crowdsale.
+31
+
+

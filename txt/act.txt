@@ -1,0 +1,244 @@
+ACT ‚ÄúTechnical White Paper‚Äù
+By Fraser Brown, 24th June 2017 Version: 1.0
+The ACT pre-ICO
+ACT ‚Äì Citizens First
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+INTRODUCTION
+
+3
+
+BACKGROUND
+
+3
+
+HOW DOES ACT WORK?
+
+3
+
+ACT‚ÄôS DESIGN
+
+4
+
+Vote price accessibility
+
+4
+
+Proposal quality and validity
+
+4
+
+Security
+
+4
+
+ICO DESIGN
+
+5
+
+THE ACT CURATION ENGINE (ACE) PROCESS
+
+5
+
+1. Proposal submission
+
+5
+
+2. Curation
+
+5
+
+Example 1: The rights of Maria Dzuba‚Äôs disabled daughter
+
+5
+
+Example 2: A journalist detained and in need of legal support
+
+6
+
+Example 3: Communities fighting coal mining expansion in the United Kingdom
+
+6
+
+3. ACTIVATION
+
+8
+
+4. Votes
+
+8
+
+ACT CURATOR REWARDS
+
+8
+
+ACT AND ACTION TOKEN
+
+9
+
+MAKING CHANGES TO THE SMART CONTRACT AND TUNABLE VALUES
+
+10
+
+CONCLUDING REMARKS
+
+10
+
+LICENSE
+
+10
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+Introduction
+ACT is a decentralised autonomous organisation (DAO) addressing social accountability by aggregating micro payments from citizens to fund grass roots proposals that drive change.
+Social Accountability ‚Äì ‚Äúthe extent and capability of citizens to hold the state accountable and make it responsive to their needs.‚Äù
+It is comprised of two parts:
+1. ACT, where citizens purchase votes, and apply them to proposals; and, 2. The ACT curation engine (ACE) where ACT Token govern curator rewards.
+ACE is the main focus of this technical white paper, because it contains the functionality that rewards those that hold ACT‚Äôs tokens, which are called ACT and ACTION.
+Background
+The original ACT Concept Note should be consulted for a more in-depth analysis about the ACT impact model, its main social principles, as well as the theory of change that underpins it.
+How does ACT work?
+To use ACT, citizens first download the mobile App to their mobile device, which initially invites them to choose cause types they wish to address through social accountability interventions, and then purchase votes which are used to support proposals. The pooled funds raised through vote purchases are used to fund successful proposals. Browsers such as Toshi or Status could also be used with an ACT bot.
+The vision for ACT is that vote holders ‚Äì citizens all over the world ‚Äì receive push notifications via the ACT mobile App alerting them about important proposals, and allowing them to vote ‚Äúyes‚Äù, ‚Äúno‚Äù, or ‚Äúabstain‚Äù. Their actions drive change because if a quorum is reached a smart contract is triggered and the proposal is funded instantly.
+At this point, some readers might surmise; ‚ÄúIs this crowd funding?‚Äù But, please maintain an open mind in order to capture the new innovation that ACT aims to be.
+By way of illustration, mobile phone users with ‚Äútop-up‚Äù or ‚Äúpay as you go‚Äù accounts do not top-up each time that they wish to send an SMS. Rather, they keep their accounts topped up so that they can send an SMS or respond to an SMS from a friend when they need to. So it is with ACT ‚Äì people will keep their votes topped up so that they can react to proposals continuously.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+ACT is designed to become the de facto global platform that drives social accountability through funding proposals. As such, citizens would use it in a way that is consistent with this purpose ‚Äì they should desire to maintain a balance of votes relating to the areas that they care about so that they can respond to proposals in real time.
+This is not to say that ACT‚Äôs community might not grow when, as a direct result of any given cause receiving significant media coverage, citizens set up accounts in response, but ACT is different than crowdfunding, fundamentally.
+ACT‚Äôs design
+Two central goals with this DAO design were:
+1. Vote price accessibility - to maintain a price for ‚Äúvotes‚Äù that is accessible for everyone in the world regardless of their personal economic context; and,
+2. Proposal quality and validity - to ensure that DOACT voters only receive proposals through the App that are high potential, valid, non-spam, legal and legitimate.
+Vote price accessibility The challenge of vote price is resolved relatively easily by denominating the cost of one vote in dollars rather than ETH. The initial nominal cost will be 10 cents‚Ä† (USD) with a limit of number of votes that an ACT user can apply to any given proposal of 100 dollars‚Äô worth‚Ä† (1000 votes).
+However, where millions of voters might be amongst the poorest people in the world (living on less than $1 per day) this is not enough because there is a risk that wealthier groups could capitalise on votes. A mechanism will therefore be designed to mitigate this risk, such as further limits on the number of votes that a user can apply to a given proposal.
+Proposal quality and validity The second challenge is the main topic of this ‚Äútechnical white paper.‚Äù
+The ACT curation engine (ACE) is a decentralised platform for vetting proposals. It rewards its curators through an algorithm derived to score individual contributions that most community members will consider to be a fair assessment of the subjective value of each contribution.
+15%‚Ä† of all ETH received from ACT users who purchase votes is allocated to reward curators. ACT is hard wired to distributed this to the curation community in accordance with rewards evaluated by algorithm‚Ä†.
+Security ACT‚Äôs ETH pools are stored in the ethereum blockchain, not a new blockchain built and maintained by its development team. In this way, the potentially millions of dollars donated by users globally to obtain votes will be stored with proven and tested security.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+Smart contracts will trigger payments to curators and proposal makers in line with the ACT code, immutably.
+In order to reduce the risk of funds flowing to fraudulent proposals, ‚ÄúFirst timer‚Äù proposal amounts could be capped‚Ä† but, in any event, the average ‚Äúticket size‚Äù of typical proposals will be hundreds or thousands of dollars rather than millions, so the risks are not unwieldy.
+ICO Design
+ACT is the token that is the unit of account in the ACE. 10 billion‚Ä† ACT will be issued during the ‚ÄúICO‚Äù, and allocated by the smart contract as follows:
+‚Ä¢ ACT Donation Campaigns - 82.5% (including pre-ICO) ‚Ä¢ ACT Contributors - 8.0% ‚Ä¢ ACT Team - 5.0% (paid as ACTION vesting tokens) ‚Ä¢ Daoact Ltd - 3.0% ‚Ä¢ ACT Bounties - 1.5%
+The ACT Curation Engine (ACE) process
+The basic ACE process follows this path:
+(1) Proposal submission > (2) Curation > (3) ACTIVATION > (4) Voting
+1. Proposal submission Proposal submission requires a small payment‚Ä† of ETH, and proposal value could be constrained depending on the platform‚Äôs capitalisation. The proposal is just as public as any post on Steemit or Medium, or campaign on Kickstarter or GoFundMe. Proposals may also be shelved if they receive a high volume of downticks‚Ä† early in the curation period.
+2. Curation Many institutions responsible for allocating public money are obliged to operate in a transparent way. The dialogue can, in fact, be conducted in the public domain, or, alternatively, the information can be obtained by any citizen through freedom of information regulation. Similarly, in the ACT model transparency is fundamental, and we do not see why any discussions relating to the validity of a proposal should not be completely open.
+Let‚Äôs consider some examples.
+Example 1: The rights of Maria Dzuba‚Äôs disabled daughter The ACT white paper, website and explainer video all use the hypothetical example of Maria Dzuba from Minsk, Belarus to help explain the what and why of ACT.
+In summary, Maria‚Äôs 8 year old daughter Lera is disabled and local government refused to repair the elevator in her building for budget reasons. Belarusian law allows
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+for a petition to be raised to create a ‚Äúpublic letter‚Äù which can be considered. Maria asks the ACT community for $200 to fund her campaign.
+The question we are asking here is; ‚ÄúHow can curators ensure that Maria is a legitimate cause and an honest proposal‚Äù? Curators could publicly ask Maria in the actual thread of the proposal (like a post to Steemit) to post a picture or video of her and Lera within the thread and holding a page stating ‚ÄúHello ACT.‚Äù For a consideration of $200 this might be deemed enough for some curators to ‚Äúsign off‚Äù on the proposal. Others might ask for correspondence with the local government to be posted, and others could translate this from Russian into English. Similar to Steemit, each action in itself can be up‚Äôd by the community to signal its value, which the ACT algorithm will use to assign reward.
+Example 2: A journalist detained and in need of legal support Sometimes when civic mobilization occurs within a hostile political system, the independent media that seeks to cover the story can get into hot water. For example, a cameraman could have his/her equipment confiscated and he/she could be detained by the police. In this instance, the person urgently needs the best legal support. ACT could support such an intervention, and even fund replacement equipment!
+The parent media organisation could post the proposal and seek support, but curators might interpret this as exposing the ACT community to directly funding some organisation or individual that a sovereign state has an issue with. Alternatively, a legal firm retained by the media organisation could demonstrate that it will receive the funds directly and for the express purpose of representing the detained journalist. In this way, ACT funds remain more non-partisan and independent which the community might prefer. The curators might invite the proposed legal representatives to post a link on their corporate website as proof that the request originates from them, as well as other assurances that the funding will go directly to the law firm.
+Example 3: Communities fighting coal mining expansion in the United Kingdom Reclaim the Power is a growing network in the UK that supports local communities fighting open cast coal mining that is harmful to their health and the wellbeing of their children. The expansion plans also threaten to drive other existing and new employers from the area who do not want to be located where scientists confirm that they will suffer dire health consequences as a result of these egregious activities.
+In one action during 2016 the operations of a major coal mine in Wales were halted by public protestors. Some groups protested peacefully at the gates of the coal plant, while others entered the property and chained themselves to the mining machinery. This was part of a global movement that included actions from Australia to Indonesia to Germany seeking to stem the tide of destructive fossil fuel use globally.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+In Wales, the police eventually told the community leaders that in order to avoid being arrested the Reclaim the Power supporters would have to remove themselves from the machinery without further persuasion. The community decided that it wanted the protests (which were successful) to end without arrest and that is what happened.
+Such movements inevitably end up weighing heavily financially on communities that initiate them. Consequently, they can ill afford to maintain them let alone expand them in line with the potential for real impact and change. Put simply, as the movement grows so do its costs. Within a traditional approach, a non-profit organisation could be established with seven or more high-profile and reputable directors. It would then recruit staff and solicit people and grant makers for donations. But this too costs money (such as for the assistance of professional service providers like lawyers and accountants), and takes a great deal of time. Ultimately, what emerges is a legal entity with significant overheads, and which, in fact, can be halted through court injunction, and whose staff and directors are influenced by reputational risk, internal politics, and certain other types of liability.
+In order to succeed on the ACT platform, the Welsh community group (or an organisation like Reclaim the Power) could propose that ACT finances very specific costs relating to growing their campaign. These could include, for example, the cost of marquees to host the members of the public who turn out in support, or a PR firm to help maximise media exposure.
+Such a proposal could easily satisfy the need for curators to push only safe and vetted proposals to ACT by publishing the actual written quotation for marquees or PR from their respective suppliers, and even go as far as offer wallet details controlled by a third party that agrees (again publicly) to use the proceeds for these purposes alone.
+This also helps to allay fears that the ACT community could have about the legality of what is being funded (also a requirement that curators must consider). Case in point, funding locks and chains that are to be used to disable privately owned equipment will not pass the curator‚Äôs rigour, but there is nothing illegal about using the funds to rent a marque that will be erected on permissioned land, nor a PR firm to conduct promotion.
+Additionally, if the action is a great success and real momentum is gained and traction achieved in the media, the community might want to act again quickly, and instead of a lengthy process of raising more funds in the traditional way, it could submit a new proposal leveraging its now established reputation on ACT, and raising more funds in a matter of days to fuel more civil mobilization and citizen action.
+Actually, ACT could potentially fund civic movements at any rate at which they grow, even exponentially.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+3. ACTIVATION The ACTIVATION algorithm‚Ä† will push proposals to ACT users locally and globally (whose profile settings selected the theme and geography of the proposal) once the underlying conditions and criteria are satisfied.
+4. Votes Once ACTIVATION occurs, ACT users are notified by the App on their mobile device. They can open the proposal read it together with the entire dialogue with curators and decide to vote yes, no or abstain. If a quorum of 60%‚Ä† is reached then the proposal is funded.
+ACT users could also have an option to ‚Äúassign‚Äù their votes to another member who exhibits recognised expertise in the topic under proposal, or whose reputation otherwise encourages the user to assign his or her vote to this person. Reputation could be evaluated by success rate‚Ä† of proposal voted for, or success rate as a curator (presumably many curators will also be active participants on ACT). This feature would also ensure that voting power is limited so as to prevent capture by any particular interest group.
+
+ACT Curator Rewards
+As described above, the ACE‚Äôs design empowers the curation community to unambiguously act as guardian of proposal quality on behalf of the global ACT community. The curators‚Äô role is fundamental to the success of the platform and the mission of ACT, and, as such, deserves significant reward.
+
+Anyone can access the curation engine by creating an account, but unless the user owns ACT tokens he/she will not earn rewards. However, their wallet will display virtual rewards i.e. those that they would have earned if they indeed owned ACT tokens. This will support liquidity by encouraging these curators to buy ACT tokens and participate in the community rewards programme.
+
+How will the rewards be allocated?
+
+An initial algorithm is proposed as follows:
+
+ActionPct = The percentage of tokens held by a curator from the total amount of ACTION tokens held by all curators who took part in the curation of this specific proposal.
+
+CurationPct = The percentage of curation work that has been done by a curator from the total curation work done for this specific proposal.
+
+InterimReward = = CurationPct / 10 * (-0,0005 * ( ActionPct - 100)^2 + 10)
+
+Reward = Ì†µÌ∞ºÌ†µÌ±õÌ†µÌ±°Ì†µÌ±íÌ†µÌ±üÌ†µÌ±ñÌ†µÌ±öÌ†µÌ±ÖÌ†µÌ±íÌ†µÌ±§Ì†µÌ±éÌ†µÌ±üÌ†µÌ±ë ‚àó
+
+.//
+
+012345673894:
+
+Other factors such as timeliness of curation effort, and curator reputation could also factor.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+ACT and ACTION Token
+The cryptocurrency arena is characterised by speculators switching from one cryptocurrency to another depending mainly on which one they expect to have short-term growth. This behaviour risks undermining smooth growth and development of a new global initiative such as ACT. Steemit addressed this problem by having a distinct ‚Äúinfluence token‚Äù called Steem Power the value of which is derived from the platform‚Äôs unit of account (Steem tokens). Holders of Steem Power are rewarded with the lion share of newly issued steem but can only ‚Äúvest‚Äù their position over a two-year period.
+In theory, long term commitment of stakeholders causes them to vote for long-term growth rather than short-term pumps. We want a curation engine that rewards those with a longterm perspective and interest in the platform. It must be imperative to only ACTIVATE the best quality proposals, which are safe and appropriate recipients for ACT users donated funds.
+In the case of ACT, this commitment is encouraged because when proposals are not successful after being ACTIVATED and sent to the ACT voting community, then only those curators who flagged or downticked (proposals can be marked ‚Äú+‚Äù or ‚Äú-‚Äú by curators) a proposal are rewarded, but the problem of altcoin volatility due to speculation remains at odds with the long-term health of ACT and ACT tokens.
+The solution is a second token, called ACTION which is not an influence token as in the case of Steemit (we do not want those with buying power to exert more influence) but it does weight the rewards via an algorithm‚Ä† depending on how much ACTION the account has, and how much the account contributed to successful curation outcomes. Like Steem Power, ACTION can only be converted back (vesting) to ACT over time. In the case of ACTION a 1‚Ä† year period via 12‚Ä† equal monthly payments.
+ACTION is therefore a ‚Äúrewards token‚Äù for both long termism and curation effort. It is nontransferrable and can be acquired on the platform with ACT, which means that it cannot be easily traded on cryptocurrency exchanges.
+Unapologetically, the ACT model cherry picks some of the best innovations pioneered by Steemit, WINGS and other first movers. This approach is both efficient and prudent. For instance, as Steemit succeeds globally (perhaps becoming a ubiquitous global social network) people will become familiar with an interface and token exchange set up that is very similar to ACT.
+It is hoped that ACT will become a ubiquitous platform for social accountability!
+In the future, as those in the crypto space know, people in the mainstream will seamlessly exchange cryptocurrencies as easily as they send SMS messages today. Their self-sovereign, blockchain secured identities will empower every aspect of daily life, from banking, to social media, to energy, to, we hope, improved social accountability.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+Making changes to the smart contract and tunable values
+There are a number of established models for changing a DAO‚Äôs mechanics. WINGS suggest a liquid governance approach to accepting DAO modification or upgrade suggestions for smart contracts. Steemit has repeatedly forked its platform to implement structural changes which derive from community sentiment and the actions and opinions of its 19 independently chosen witnesses.
+In common with these innovative platforms, ACT will also benefit from a well-funded core team of developers, marketing specialists, UX developers and strategic advisors that will absorb community sentiment, and interpret trends and behaviours (both good and bad) that require responses in ACT in order to improve its chances of achieving what it sets out to do.
+To support platform sustainability, ACT‚Äôs smart contract will pay 1-2.5% of revenues to Daoact Ltd, and 1-2.5% of revenues to the Daoact Foundation, depending on the amount of funds raised during donation campaigns.
+Concluding remarks
+This white paper deliberately highlights each of the tunable values that dictate how the curation engine will operate in the hope that the focus of discussion around this white paper will be on how to make ACT Beta as fit for purpose as possible.
+The crypto community ‚Äì those that will make up the bulk of supporters during ICO ‚Äì comprise specialists from diverse fields including behavioural economics, advanced mathematics, game theory, coding languages, and complex algorithms. The ethos of this community is one of collaboration and participation. The donation campaigns are an opportunity to debate and contribute to the design of the DAO and its constituent parts. Such ideas are foreign in the world of traditional centralised corporation and venture capital but we believe that an ICO is as much about design as it is funding activities that will make the decentralised vision of the project reality.
+Thank you, and welcome to ACT.
+Web: www.daoact.org.
+Email: contact (at) daoact.org
+License
+Copyright (c) 2017 ACT FOUNDATION
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPY- RIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+‚Ä† Tunable value
+
+contact@daoact.org
+
+

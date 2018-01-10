@@ -1,0 +1,90 @@
+White Paper
+Creating the Foundation ICO Process
+Phase 1 ▲ Community Phase 2 ▲ Projects Phase 3 ▲ Execution Bitcoin Repository ICO Example Legend Interpretation Notes
+Building a Decentralized Ecosystem
+▲ Foundation Series
+By: Gabriel Dusil, Co-founder & Board Member, Adel Michal Vavrek, Founder & Board Member, Adel
+Abstract
+In this white paper, we discuss the phased rollout of Adel's ecosystem. The first phase includes the launch of Adel through an initial coin offering (ICO). Phases two and three will focus on building and managing the community.
+
+Creating the Foundation
+Adel is a new cryptocurrency system and global community that is selfsustaining and operates within its own macroeconomic ecosystem. This ecosystem will maintain its fiat independence through the use of Adelphoi1. It will also have the ability to trade with other economies.
+The Adel ecosystem will consist of three phases. Phase one will build the community portion of the ecosystem by creating the Account Module of the community portal and includes the first initial coin offering (ICO) round. Phase two will begin after the first ICO round and will focus on developing the community portal: Forum, Voting, Project Dashboard, and Trading Modules. Phase three will focus on operating and managing the projects and converting them into successful solutions that will benefit the entire community.
+
+ICO Process
+Adel will have three rounds of ICOs to ensure a controlled deployment of funds as various projects are introduced to the community. This ensures a focus on planning rather than pure capital collection. Adel also wants to further ensure that no single person or small group will be able to dominate the community. A diverse set of stakeholders will guarantee a more democratic outcome as voting will be distributed amongst a greater number of stakeholders. Moreover, this will create confidence in early ICO participants who will be supportive of the values established by Adel.
+There will be a total of 100 million non-mineable Adelphoi (ADL) coins available in the Adel ecosystem: ▲ 85 million ADL will be distributed through 3 rounds of an Initial Coin
+Offering (ICO). ▲ 15 million ADL will be distributed amongst Adel Ecosystem Ltd.
+From this amount, 5 million Adelphoi will be released at each round of the ICO. This will ensure transparency and long-term commitment from Adel Ecosystem Ltd.
+During the first ICO round, funds in BTC will be immediately placed into Adel’s escrow storage – an offline repository residing in a BitGo2 account. ShapeShift and Changelly will be actively supported for ICO collection as they are the market leaders in instant digital currency conversion. Both ShapeShift and Changelly are used to easily convert cryptocurrencies from one to another. Any participant of the ICO will have to identify themselves to meet minimum Anti-Money Laundering (AML), CounterTerrorism Financing (CTF) and Know your Customer (KYC) requirements.
+Phase 1 ▲ Community
+Initial Coin Offering ▲ 1st Round ▲ 33,333,333 ADL
+Adel will build the foundation of the community during this phase. This phase includes activities up to, and including, the first ICO round. This includes the website, key marketing materials, white papers, corporate branding guidelines, and a showcase of the unique features of the Adel ecosystem. Phase one establishes the structure of the Adel Board, as well as the senior management team and staff members who will be
+
+instrumental in building Adel’s foundation. This consists of marketing specialists, blockchain developers, and cryptocurrency experts.
+The first ICO round will be open for one month. A minimum contribution is required to become an stakeholder in this round (refer to the Adel ICO Round 1 announcement for this minimum). The ICO will be open to most of the available cryptocurrencies. The cryptocurrencies collected will be automatically exchanged for Bitcoin via ShapeShift or Changelly. Tokens not accepted by these exchanges will not be accepted in the ICO. After the first ICO round, the total amount will be proportionally calculated and exchanged for 28,333,333 units of Adelphoi and distributed to each Adel stakeholder. An additional five million Adelphoi will then be allocated to Adel Ecosystem Ltd.
+There will be five stages for stakeholders to earn different bonus percentages for their BTC and tokens converted by ShapeShift or Changelly. This bonus refers to the amount of Adelphoi the stakeholder will receive, and will be directly proportional to their voting power in the community:
+▲ 20% bonus in ADL ▲First 3 days ▲12:00 noon UTC on May 1st till 23:59 UTC on May 3rd
+▲ 15% bonus in ADL ▲ Next seven days ▲ 00:00 UTC on May 4th till 23:59 UTC on May 10th)
+▲ 10% bonus in ADL ▲ Next seven days ▲ 00:00 UTC on May 11th till 23:59 UTC on May 17th)
+▲ 5% bonus in ADL ▲ Next seven days ▲ 00:00 UTC on May 18th till 23:59 UTC on May 24th)
+▲ 0% bonus ▲ Last seven days ▲ 00:00 UTC on May 25th till 23:59 UTC on May 31st)
+▲ 15% bonus in ADL ▲ Special bonus for contributions of over 20 BTC ▲ Stakeholders who exceed this minimum will receive an automatic bonus of 15% no matter when they submitted their first contribution.
+Stakeholders will be able to keep their bonus should they decide to increase their contribution within the following weeks of the ICO. For example, in the following infographic, if a stakeholder contributes during the second stage, then they will continue to receive a 15% bonus even if they increased their contribution during the fourth stage of the ICO.
+
+Prior to the ICO Adel will establish a total minimum amount of funds received by contributors of the ICO (refer to Adel’s FAQ at www.adelphoi.io). In the event that this minimum contribution is not reached, there will be a vote conducted amongst the community members as to whether Adel will continue.
+The following materials and applications will be released during this phase:
+▲ The homepage, which will introduce Adel to the cryptocurrency community and the world at large. It will also outline Adel's core values. Our home page will showcase the initial round of green-lit projects, showing a top-level overview, along with their unique technical and business solutions. A series of white papers, including this one, will describe our unique approach to community-based projects. Other white papers will describe our policies, procedures, and underlying technologies and philosophies that fuel our ecosystem.
+▲ The Adel Community Portal will be an extranet portal used to view all of the community's confidential activities. It will include detailed guidelines for project submissions, as well as a landing page.
+▲ The status of each community member’s contributions will be displayed in real time in the Account Module. Each community member will be able to see the status of any payments they receive in this module.
+
+Phase 2 ▲ Projects
+Initial Coin Offering ▲ 2nd Round ▲ 33,333,333 ADL
+Adel’s second phase will begin as soon as the first ICO window has closed and will run until the 2nd ICO.
+The following materials and applications will be released shortly after the first ICO: ▲ The Collaboration Module will be the social media platform using
+third-party services where community members can discuss projects and direct their questions to the project managers and the Project Review Committee. ▲ The Voting Module will be created for community members to vote on projects and other key decisions. ▲ Adel will nominate the members of the Project Review Committee who will evaluate ideas, and develop business plans, before they are submitted to the community vote, as well as participate on forums to discuss ongoing projects with the community. ▲ The Transaction Module will only be available to Adel Board members. This module will be used to pay project capital costs and other required expenses. It will also have dashboard visibility and oversight of all payments executed (pending approval), as well as all associated management summaries necessary to effectively manage the community and its projects. ▲ The initial deployment of the Trading Module will allow community members to easily trade their Adelphoi with other community members. Future versions of the Trading Module will connect to available external payment gateways, fiat monetary platforms, and other cryptocurrency exchanges for community members. This will further ensure that each community member has sufficient freedom which will be represented by the liquidity of their resources. ▲ The Project Module will also be released during this phase and will contain detailed information on the operations of each project. Postings and overall content will be owned by the project managers. Adel will redistribute success back to community members. ▲ A Market Module will be used to post job descriptions, and for members to submit their resume to any available position. This module will also list products and services that are available from any project, with favorable conditions for community members.
+
+This phase will further establish the foundation for Adel project submission, approval, marketing, and ongoing operations. Projects involving technological innovation can have either a global or regional reach. They may participate in, but would not be limited to, Business to Business (B2B), Business to Consumer (B2C), or even Business to Government (B2G) environments. Projects will be funded with the funds raised through three rounds of ICO, as well as from future project profits or exits.
+A new licensed legal entity called Adel Ltd. plans to be established as the vehicle for pooled community investments into community-owned projects. This entity will issue equity shares called Adelshares (ADS). These will be tokenized on the blockchain as the Adelshare (ADS). Adelshares will be purchased only with the Adelphoi coin. When Adel Ltd. is registered, participants will be offered the opportunity to purchase ADS with their ADL, to establish equity ownership in Adel Ltd. and its portfolio of community-approved projects. Ownership of ADS allows its holder a respective share of dividends on the basis of one unit per ADS. Any dividend payment will be paid out to shareholders in ADL.3
+First round ICO participants will be offered preferred conditions when purchasing Adelphoi in subsequent rounds. Each ICO round will be associated with innovative projects that will be funded by capital raised by their respective ICO.
+Phase 3 ▲ Execution
+Initial Coin Offering ▲ 3rd Round ▲ 33,333,333 ADL
+Adel will focus on expansion and other improvements that are in line with Adel’s core values during this phase. Thus, Adel will evaluate the opening of offices in new regions around the globe with due diligence and a justified business case. Adel will select the most qualified representatives and management from its community members for regional offices and projects in those regions.
+
+Bitcoin Repository
+Adel will utilize a BitGo account to collect funds for Adel Ecosystem Ltd. ICO funds will be collected in escrow and will require five out of six signatories to approve the release of funds. These signatories comprise of three Adel Board members and three external and independent parties, well-known in the crypto community. The funds will be released in a phased manner as follows:
+▲ 30% of the BTC escrow funds will be released shortly after the ICO (1st of June 2017) to continue paying developers, legal services, support costs. These funds will be used for building the community portal and its modules, and launching the second phase of Adel Accelerator Ltd, and its Adelshare (ADS) token.
+▲ Once the ICO is closed, then ADL coins will be distributed to ICO participants, and their balance will be visible in the community’s account module. Participants contributing over 1 BTC during the ICO will be invited to become a community member, and depending on their ADL balance additional identification details will be collected in order to meet Anti-Money Laundering (AML), CounterTerrorism Financing (CTF) and Know your Customer (KYC) requirements.
+▲ Selected external exchanges will be contacted prior to the end of the ICO for members to trade their ADL afterwards.
+▲ 70% of the BTC escrow funds will be released to Adel Ecosystem Ltd. after the fund license is granted, and Adel Ltd. is established as a legal entity.
+Bitcoin used for funding projects will be held in two repositories:
+▲ Cold storage ▲ This is an offline repository where the bulk of the funds will reside. Funds from the cold storage will be transferred to the hot wallet following the approval of three Adel Signatories. The cold storage will reside in a BitGo account.
+▲ Hot wallet ▲ This will be the account where bitcoins will be used for funding the initial launch of projects (e.g. capital and initial operating costs). The hot wallet will be also the active account where salaries, expenses and operating costs of Adel will be paid. This repository will consist of a designated maximum transaction amount of BTC for security reasons, dependent on the operational activities of Adel projects and how they weigh against security risks.
+
+ICO Example
+Legend
+▲ ADL = Adelphoi ▲ BTC = Bitcoins ▲ Stkhldr = Stakeholder = any participant holding any amount of
+Adelphoi
+
+Interpretation
+▲ In this example, 33,333,333 ADL coins will trade based on a starting value of 0.890 US$ per Adelphoi (ADL).
+▲ Stakeholder A.2 (in the example above) with 40 bitcoins contributed receives a 15% voting influence bonus, equal to an “effective” bonus of 6 BTC which translates to 15% increase in ADL.
+▲ At the end of the 1st ICO, A.2 participant (in the example above) stakeholder’s voting influence is calculated at 0.149%
+▲ Stakeholder A.2's ICO round one amount of ADL in their account will be 42,279.116 ADL.
+Notes
+▲ The Adelphoi value will be established at the end of the first ICO round.
+▲ 28,333,333 tokens will be issued to stakeholders. 5,000,000 will be reserved for Adel Ecosystem Ltd.
+▲ Those who have contributed a minimum of 1 BTC equivalent in Adelphoi will be invited to the community. After the ICO this minimum will be increased to 2 BTC (equivalent in ADL). This is to mitigate the creation of multiple accounts, as well as to provide a clearer voice for those who have a significant stake in the ecosystem.
+About Adel
+Adel is a technology incubator for blockchain innovation. ▲ Adel is a global cryptocurrency community that is self-sustained
+and offers its own economic ecosystem with the Adelphoi token. Our community focuses on creating, developing, and implementing use cases involving blockchain technology that covers a wide range of digital and physical industries. Projects are chosen by the community and successful ventures are either re-invested in for further growth or issued as rewards to Adel's stakeholders.
+
+About the Authors
+Gabriel Dusil
+Gabriel is a seasoned sales and marketing expert with over twenty years of experience in senior level positions at companies such as Motorola, VeriSign (part of Symantec), and SecureWorks (part of Dell). His strengths lie in international business development and strategic partnerships, as well as the unique ability to translate complex ideas and technologies into language that decision makers can easily understand. Gabriel has a Bachelor’s degree in Engineering Physics from McMaster University in Canada and possesses expert knowledge in cloud computing, IT security, and video streaming technologies (Over the Top Content, OTT). Gabriel also runs his own company, Euro Tech Startups s.r.o., and manages two blogs: https://dusil.com/ and https://gabrieldusil.com/.
+Michal Vavrek
+Michal is an entrepreneur with international experience specializing in global business development and project management. He graduated from Indiana University’s Kelley School of Business with a degree in Finance and International Business and worked in various capacities in New York, Zurich and Prague. Michal is an active cryptocurrency entrepreneur with an extensive background in Forex algorithmic trading strategies and is always seeking new opportunities that maximize blockchain technologies.
+References
+1 The token for Adel is called "Adelphoi". The word originates from Ancient Greek meaning brotherhood, or a member of the same community. 2 https://www.bitgo.com/ 3 This plan is subject to change, based on the type of fund license that will be established, and the jurisdiction where the Adel Ltd. entity will reside.
+
+

@@ -1,0 +1,300 @@
+First crowdvouching platform
+
+https://www.ico.suretly.com
+
+1
+
+Short description
+Suretly is a provider of an international crowd vouching platform. The company offers users an investment alternative called crowd vouching, which allows customers to make money vouching for people who need a urgent loan. This system works in a similar fashion than peer-2-peer lending, but customers do not lend money to each other directly. Instead, they vouch for borrowers who apply for a loan through lending partners. Customers can ﬁnd borrowers that are looking for their loan’s guarantors. The voucher can check the borrower’s proﬁle and choose whether to vouch for the borrower if one's default risk and earning amount suit them.
+2
+
+Tables of content
+
+Introduction
+
+4
+
+What is crowdvouching?
+
+4
+
+Crowdvouching beneﬁts
+
+5
+
+Lending process
+
+7
+
+Monetization
+
+7
+
+Suretly UI
+
+8
+
+Beta-testing results
+
+8
+
+Early Investors & Accelerators
+
+10
+
+The Core Team
+
+11
+
+Media coverage
+
+12
+
+ICO
+
+13
+
+Escrow
+
+15
+
+PreSale tokens
+
+15
+
+Current project’s status
+
+15
+
+Preliminary ﬁnancial plan
+
+16
+
+3
+
+Introduction
+The idea of peer-to-peer lending (P2P) was just perfect, and it seemed people could ﬁnally lend money to others without clumsy and costly ﬁnancial institutions involved as intermediaries. P2P platforms, however, were not able to successfully deal with regulatory pressure, and had to give up the idea of direct-user interactions. In 2008, the SEC forced the largest market players to go public with their securities, and this has led to a situation where investors were no longer ﬁnancing borrowers directly. Instead, they had to buy medium-term bonds backed by loan repayment notes.
+How to remedy this situation? Enter crowdvouching, which allows you to make a proﬁt immediately, and you will only have to put money out later if the loan is not repaid.
+What is crowdvouching?
+Crowdvouching is the practice of financially securing a loan repayment by vouching monetary contributions from a large number of people.
+Unlike P2P lending, Vouchers do not lend money directly to the Borrowers but guarantee to repay the loan to the Lender in case of Borrower's default.
+Vouchers act as a collective mind in order to determine whether to approve loans or not. Liability for each loan is divided among all Vouchers. Each Voucher approval serves like an insurance of the loan capped at $10 USD. Since the vouching range is between $2 and $10, each Borrower needs to find dozens of Vouchers provided by Suretly platform. In order for the loan to be approved, the entire loan amount should be guaranteed by the Vouchers.
+4
+
+Crowdvouching beneﬁts
+No cost for investors. The major difference between crowd-vouching and P2Pborrowing is that investors or co-signers on crowd-vouching platforms do not loan any money to anyone. They do not buy securities either. What they do is act as dozens of co-signers, who guarantee to pay part of the borrower's debt in the event of a default. At the same time, investors receive compensation, depending on a borrower's credit rating.
+Distribution of risks. As in P2P-lending, investors co-sign only for a portion, but not the whole amount of a loan. Each borrower should get several dozens of cosigners. Only in this case is he guaranteed to get a loan. At the moment, crowdvouching technology is tested on short-term loans (up to 30 days), which are more proﬁtable for investors, but assume a higher level of risk. However, the risk is distributed between several investors.
+Quick return on investment. Compensation to investors in most cases is paid out of the loan amount. They can receive their proﬁt the day after a loan is issued to its borrower.
+No costs are paid by investors. A licensed ﬁnancial institution (bank or another organization that is authorized to issue loans) acts as a direct lender. The crowdvouching platform is, in fact, the marketplace. Acting as an interactions administrator for all parties involved, it assumes 100% liability to recover money from investors in the event of the main borrower defaulting.
+Lower borrowing rates. Minimizing risk lightens investors’ needs to incorporate higher interest rates to cover potential defaults and expenses working with problem borrowers. The rates will be minimal for borrowers. Yes, you will have to cover the costs for investors’ compensation. But, for borrowers with high credit ratings, these costs are going to be insigniﬁcant.
+5
+
+Anonymity. A borrower’s personal data is not disclosed to investors – they have to make their decisions solely on the basis of proﬁt/risk ratio evaluation. Data remains undisclosed even in the case of a default. Situations where an angry investor can start procedures for independent recovery of money lost, are practically excluded.
+Good opportunity to improve credit history. People with less than perfect credit history, so-called sub-prime borrowers, are worthy of separate consideration. According to CFSI, 121 million Americans, which count as almost half of country's population, have a FICO score of less than 600 points. This means, that they are locked out of access to traditional bank loans. Where else can these people borrow any money? A borrower's card, with a minimal set of data about them (photo, name, city, and age) is disclosed to potential investors for decision-making purposes. It is presented, along with data on a percentage of people with similar credit ratings, who have repaid their loans in full.
+Low default rate. Collective responsibility can affect the default rate, even in groups of people who don’t know each other. As demonstrated over 4-months from crowd-vouching test results in Eastern Europe, the default rate is signiﬁcantly lower than in other credit products.
+Crowdvouching in micro-ﬁnancing
+Crowd-vouching can be used for any type of loans or credits. But brieﬂy we’re focusing on small, short-term loans market (including payday loans). It allows us to offer bigger rewards to investors with a higher risk level. Besides, the micro-ﬁnancing market is one of the largest among loan markets. US residents alone spend more than $40 million annually on short-term loan interest payments, according to CFSI. Demand for such loans in developing countries is even higher.
+6
+
+Lending process
+All loan applications come to the lending partners. Suretly interacts with its partners through API:
+
+Borrower’s application
+
+Identification and scoring
+
+Submitting application for investors search
+
+Search for vouchers
+
+Are vouchers
+found?
+Yes
+
+No
+Loan declined
+
+Yes
+
+Has loan
+
+been
+
+repaid?
+
+No
+
+Commission payment to investors
+
+Loan issue
+
+Contract signing
+
+Default notice
+
+Loan repayment by investors
+
+Creditor redirects debtor to Suretly’s website, in case he decides to repay his debt
+
+Monetization
+Suretly charges 3% commission on each approved loan, regardless of whether the loan is repaid by its main borrower or not.
+This project has great scaling potential. The only thing necessary for its growth is a larger number of new partner-creditors and users-investors.
+
+7
+
+Suretly UI
+
+As was already mentioned above,
+
+crowdvouching can be used for any type of
+
+Tinder-like user interface
+
+loans or credits. But, at the moment, our
+
+team is focused on working with micro-
+
+ﬁnancing companies. Among other things it
+
+allows us to use Tinder’s mechanics, in
+
+which investors are presented with cards of
+
+borrowers’ information (photo, city, age, and
+
+sex), the remuneration amount, and the
+
+statistical probability of the loan repayment.
+
+If an investor is comfortable with the reward/
+
+risk ratio, he makes a swipe to the right,
+
+guaranteeing this borrower a small amount.
+
+If not, he moves cards to the left and goes
+
+on to the next borrower.
+
+Each voucher approval serves as an insurance of the loan capped at $10 USD
+
+Beta-testing results
+
+We’ve already tested our business model in Eastern Europe - ﬁrst crowdvouched loan was issued 5 months ago, and statistics shows that 76% of our customers earned a good proﬁt.
+
+8
+
+Current project’s status
+Presently, the application is working in a beta in Russia. Integration with new creditors from Russia and Kazakhstan will be completed in a few months. Also, technical and legal work for entering the US market is in progress. All money raised from the ICO will be used for a fully functional application development and for penetration into new countries’ markets.
+Crossing borders
+One of crowdvouching technology’s advantages is that it is global. Any investor can work with any transaction in any country where Suretly is present. In March 2017, crowdvouching technology was presented at LendIt-2017, the world’s largest loan technologies exhibition. Lenders from the USA, Mexico, India, Europe, and Africa showed interest in this technology.
+9
+
+Early Investors & Accelerators
+As a resident of HSE {Inc}’s business incubator, the Suretly team got its ﬁrst investments from the Higher School of Economics, which is Russia's largest economic research institute. Suretly was one of the ﬁnalists in Generation-S, Europe's largest business accelerator. Since February 2017 the team was among the top 10 projects which passed a selection for the New York Starta Accelerator. The Starta Accelerator became one of the ﬁrst venture initiatives, which attracts investors' funds by conducting their own ICO.
+10
+
+The Core Team
+Our diversiﬁed team consist of 9 people and has a solid expertise in a microlending ﬁeld as we had created and successfully sold one of the ﬁrst online lending platforms in Russia. We have an extensive background experience in investment banking and business consulting, marketing and advertising, microﬁnance and international legal practice.
+Eugene Lobachev, CEO
+Founder of Suretly is a serial entrepreneur and have created multiple startups in the past 10 years. https://www.linkedin.com/in/elobachev/
+Anna Paulova, CMO
+Seven years in marketing & design, two years of experience with SMM & context ads (Yandex.ru), two years in ﬁnancial lid generation (krediman.ru).
+Svetlana Eydelman, CFO
+Two years in investment and banking, three years in business consulting, eight years in business development. Completed MBA at the City University of New York
+Vlad Zubarev, Business Development & Advising
+Spent 15 years in software development while working at prominent Silicon Valley based start-ups such as Cisco Systems ﬁrst as an engineering manager heading large development organizations spread across several regions.
+Andrey Zverev, Business Development & Advising
+Twenty years of experience in the ﬁnancial technology and payment processing space. Completed post-graduate courses at Harvard University. Ex-founder of Cashoninternet.com, one of the ﬁrst ﬁn-tech companies in the U.S. to provide micro loans online.
+Konstantin Vishnivetsky, Lead developer
+14 years experience in C++, Java, SQL. 5 years in ﬁntech industry. Three years experience in AI scoring industry.
+11
+
+Media coverage
+What’s Coming Up in July? Suretly’s ICO is On its Way! http://www.newsbtc.com/2017/06/22/whats-coming-julysuretlys-ico-way/
+Suretly, a Crowdvouching Alternative to Peer-2-Peer Lending Announces ICO https://coinidol.com/suretly-a-crowdvouching-alternative-topeer-2-peer-lending-ico/
+Suretly raises $350,000 in pre-ICO round http://theﬁntechtimes.com/suretly-raises-350000-pre-ico-round/
+Tinder for microloans: How to share lending risk with strangers
+http://rbth.com/science_and_tech/2017/04/19/tinder-for-microloanshow-to-share-lending-risk-with-strangers_746448
+The ﬁntech-startup Suretly acquaints New York with the technology of crowd-vouching. http://en.generation-startup.ru/news/articles/28925/
+Loans without borders: how American p2p-services helps Africans people (in Russian) http://www.forbes.ru/tehnologii/340149-kredity-bez-granic-kakamerikanskie-p2p-ploshchadki-pomogayut-razvivatsya
+Tinder for Borrowers (in Russian) http://www.rbc.ru/newspaper/ 2016/08/26/57bdbc3f9a7947539d803d2a
+Suretly plan to raise $10M in ICO (in Russian) http://forklog.com/startap-suretly-planiruet-privlech-10-mln-vhode-ico/
+Moscow High School of Economics invested in crowdvouching platform Suretly (in Russian) http://www.rb.ru/suretly/
+HSE{inc} business accelerator released the ﬁrst ﬁntech alumnus (in Russian) http://bankir.ru/publikacii/20160907/biznes-inkubator-vyssheishkoly-ekonomiki-vypustil-pervyi-fintekh-10008007/
+And much more…
+12
+
+ICO
+Date of ICO start: July, 11 2017 Date of ICO end: August, 11 2017 Investor dashboard: https://secure.suretly.com
+Suretly is planning to raise between $1.5 - $10 million USD in the next round of ﬁnancing by selling 15% of its shares. This money will help to accelerate penetration into new markets and countries. A main investor of this round will become a Singapore company “SURcoin pte.ltd” which will get options to buy 15% of Suretly’s shares and will initiate tokens issue. SURcoin pte. Ltd will issue SUR-tokens which will be offered for a crowdsale to all willing parties in exchange for different cryptocurrencies: Ether, BTC, LTC and Waves. The initial exchange rate for 1 SUR token will be 0.1ETH or equivalent in bitcoin, litecoin or waves. All investors, who will purchase SUR-tokens during ﬁrst hour after the ICO start will receive 70% bonus, it means that each ETH token will be exchanged for 17 SUR tokens. After that, all investors who will purchase SUR-tokens next 23 hours will receive 50% bonus. In the future, the bonus will decrease in a linearly progression every day, until it reaches zero.
+The creation of new tokens will stop after an equivalent of $10 million USD is raised or after the ICO expiration date.
+If the campaign is successful, an additional 10% will be issued to the option pool for rewarding current and future employees. These tokens cannot be sold for the next 12 month period. Also, we plan to issue a 2% bounty will be issued for rewarding people who help us with marketing campaign.
+No new tokens will be created after ICO.
+All funds raised via ICO will be exchanged for 15% of Suretly, Inc.’s shares.
+13
+
+There will be two types of tokens available based on Ethereum and Waves. Each investor will consider himself which type of token he wants to get.
+There will be a possibility to use all issued SUR-tokens as a method of ensuring guarantee on a granted surety in the Suretly app.
+
+SUR tokens will be added to different exchanges not later then 5 working days after the end of the ICO.
+As by agreement between Suretly, Inc и SURcoin pte.ltd, Suretly, Inc. will be transferring 0.2% of each loan secured by Suretly's investors to SURcoin pte.ltd. It will begin doing this on a quarterly basis, after the 3rd quarter following the ICO is completed. This money will be used by SURcoin pte.ltd buyback tokens from exchanges. All purchased tokens will be burned.
+
+The expected loans amount will depend on the number of lending partners and the active system users number, which, in turn, will depend on the amount of raised funds.
+Expected quarterly buyback volume
+
+ICO vol Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Q10
+
+Q11
+
+Q12
+
+min $1.5M
+
+10 176 14 784 25 133 35 482 87 226 118 272 153 754 189 235
+
+366 643 473 088
+
+med $6.0M
+
+25 440 40 960 61 440 92 160 138 240 207 360 311 040 466 560
+
+699 840 1 049 760
+
+max $10.0M 27 350 60 088 90 132 135 198 202 797 304 195 456 293 684 440 1 025 629 1 539 989
+
+During the ﬁrst 3 years after the ICO, all proﬁts will be reinvested into the company’s development and penetration into new countries. After that, Suretly, Inc. will be able to pay dividends for all investors, including SURcoin pte.ltd.
+All dividends will be used by SURcoin pte.ltd as buyback tokens from exchanges. All purchased tokens will be burned.
+
+14
+
+Escrow
+All money raised will be deposited to an escrow account. Management will be able to access this money only if a minimum of $1.5 million USD or more is raised.
+PreSale tokens
+During preSale campaign that was take place at 16th May 2017 we issued 50 741 preSUR tokens and attracted:
+- ETH 1612,21; - BTC 65,22; - LTC 340,73; - Waves 1652,36. 275 investors participated in the pre-ICO. All 50 741 preSUR tokens will be converted into SUR tokens at a 1 to 2 rate.
+Current project’s status
+Presently, the application is working in a beta in Russia. Integration with new creditors from Russia and Kazakhstan will be completed in a few months. Also, technical and legal work for entering the US market is in progress.
+All money raised from the ICO will be used for a fully functional application development and for penetration into new countries’ markets.
+Suretly website: https://suretly.com ICO website: https://www.ico.suretly.com Forum: https://bitcointalk.org/index.php?topic=1879035.0 iOS app: https://itunes.apple.com/ru/app/suretly/id1145003569 Android app: https://play.google.com/store/apps/details?id=com.suretly.app
+15
+
+Preliminary ﬁnancial plan
+The preliminary ﬁnancial plan is available here: https://suretly.com/docs/Suretly-Financial-Plan-wp1_3.xlsx
+16
+
+

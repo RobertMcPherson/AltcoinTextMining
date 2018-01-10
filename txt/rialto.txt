@@ -1,0 +1,467 @@
+RIALTO AI
+Crypto AI arbitrage and market maker
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+CONTENTS
+‚ÄúIn all chaos there is a cosmos, in all disorder a secret order.‚Äù - Carl Jung
+
+ABOUT THE PROJECT
+
+3
+
+WHITEPAPER
+
+4
+
+BUSINESS FOUNDATION
+
+5
+
+EXECUTIVE TEAM
+
+6
+
+MARKET INSIGHT
+
+8
+
+Spread Analysis
+
+10
+
+STRATEGY
+
+14
+
+Arbitrage
+
+14
+
+Market Making
+
+15
+
+AI Tradebot
+
+16
+
+Forecasting Price Movements
+
+16
+
+WHY SUPPORT US?
+
+17
+
+HOW TO PARTICIPATE?
+
+18
+
+ROADMAP
+
+22
+
+Crowdsale Timeline
+
+22
+
+Operational Timeline
+
+23
+
+SECURITY
+
+24
+
+Risk Exposure and Mitigating Factors
+
+24
+
+LONG TERM OUTLOOK
+
+25
+
+APPENDIX 1 Table of Arbitrage Events
+
+APPENDIX 2 Table of Trade Events
+
+2
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+ABOUT THE PROJECT
+‚ÄúIt will be everywhere and the world will have to readjust.‚Äù - John McAfee about Bitcoin
+The blockchain industry is only at its inception and the growth potential matches the internet expansion in the late nineties. Just as search engines, browsers and social networks disrupted the Internet; Bitcoin, Ethereum, and other blockchain-associated ecosystems will force traditional institutions to reconsider and change their roles in the industry. Every day new projects are being introduced, established institutions are entering the blockchain, and a growing number of users is adopting the blockchain disruptive technology. Great projects like Iconomi and Taas have already successfully connected users to the landscape of several cryptocurrencies and crypto assets. Our part is to connect thousands of gateways with millions of transactions that are currently executed within the isolated exchanges.
+Figure 1. Crypto exchanges diversity plot is exposing trading pairs associated with a given exchange.
+At the time of writing, there are 756 different cryptocurrencies and 128 different digital assets that trade between 4179 exchanges and gateways worldwide. The volume of daily crypto transactions represents an unprecedented opportunity to exploit the price differences between multiple exchanges. Arbitrage Digital Asset Pool will cover the largest number of gateways and seek to profit on every transaction that is processed by proprietary algorithms. Such market maker is well positioned to own a single entry point to any cryptocurrency or digital asset worldwide. We are dedicated to the mission of establishing RIALTO.AI as the largest arbitrage and market maker in the growing multi-billion landscape of cryptocurrencies, digital assets, and blockchain transactions. By providing liquidity and matching orders, we are increasing the efficiency of crypto markets, while earning a fraction on every transaction for our supporters.
+3
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+WHITEPAPER
+‚ÄúThe value of an idea lies in the using of it.‚Äù
+- Thomas Edison
+The purpose of this document is for every supporter to gain a clear insight into our business model, the team behind it and our long term vision. Our core algorithms for automated arbitrage will be described and proposed improvements using machine learning approach will be exposed. Since our inception, we have managed to grow into a strong team, thanks to the community of initial supporters, evangelists, and partners, to whom we owe gratitude for the results that we have achieved and will improve on in the future. Whitepaper can be subject to updates. Last published update of the Whitepaper 1.1 was on 25th June 2017. We suggest that you review this information periodically for changes.
+For the purposes of this Whitepaper, the following terms are explained:
+
+Gateway Service that automates the transaction
+Arbitrage Simultaneous buying and selling of an asset in different markets
+
+Market Making
+
+Quoting both a buy and a sell price in different gateways
+
+Script
+
+Program or sequence of instructions
+
+Volatility Statistical measure of dispersion of returns for a given asset
+
+Spread Slippage XRL
+
+Difference between the bid and the ask price of an asset in one or different gateways
+Difference between the expected price of a trade and the price at which the trade is actually executed
+RIALTO.AI token on Ethereum platform
+
+Floating Capital Digital Asset Pool
+
+Offline stored digital assets and fiat currencies that are movable and storable
+Tokens in possession of RIALTO.AI available in particular public blockchain network
+
+Hard Cap
+
+The amount to which the distribution of RIALTO.AI tokens is limited
+
+Floor
+
+Minimum value (threshold) that the crowdsale will raise
+
+Liquidity Pool Arbitrage Event Trade Event
+
+Possible amount of instant trading volume on exchanges and gateways
+Occurrence of optimal volume match & sufficient price difference after netting all transaction fees
+Every arbitrage event that meets preconditions of order book depth parameter, and execution slippage indicator
+
+Token
+
+Fungible digital asset available in particular public blockchain network
+
+4
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+BUSINESS FOUNDATION
+‚ÄúIn the business world, the rearview mirror is always clearer than the windshield.‚Äù
+- Warren Buffett
+Business foundation of RIALTO.AI is built on four pillars for successful implementation and feasibility of arbitrage and market making strategies in the cryptocurrency markets. 1. Scaling up of private arbitrage scripts, their running stability, and executing efficiency. 2. Utilizing economies of scale through successful crowdsale (lowering the ‚Äúspill-over‚Äù costs of the need for having pools of assets allocated at different exchanges and gateways). 3. Increasing transactional efficiency by lowering volume based fees and negotiating individual agreements. 4. Multiplying the number of end trade events by covering additional exchanges and gateways. We are closely monitoring development of new markets and gateways within the blockchain transactional landscape. The industry exhibits strong double-digit growth rates and we expect this trend to continue in the near future. In order to have the advantage of positioning as the first mover, we evaluate different expanding options on the ongoing basis. Any new market entrances will be announced through press releases.
+5
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+EXECUTIVE TEAM
+‚ÄúIt‚Äôs not about ideas. It‚Äôs about making ideas happen.‚Äù - Scott Belsky
+
+LEON KOCJANCIC
+PhD Researcher at the Defence Academy of the United Kingdom
+Role: Design and development of data processing algorithms used in trade execution systems
+Expertise: Advanced simulations of engineering processes, supercomputing, microwave technology, signal processing
+
+VALENTIN GJORGJIOSKI
+PhD in Computer Science with Focus on Data Mining
+Role: Leading developer, specialized for data exploration, visualization and data mining
+Expertise: Machine learning, math and algorithms, scalable software development, consulting experience, cofounder of several businesses, including Grabit
+
+VLADIMIR KUZMANOVSKI
+PhD in Information and Communication Technologies
+Role: Data mining and development of live market information internal database
+Expertise: Artificial intelligence, data mining, database development, geoinformatics
+
+HRISTIJAN GJORESKI
+PhD in Computer Science, Focus on Data Science and Machine Learning
+Role: Design and development of machine learning algorithms for time-series analysis and prediction
+Expertise: Data science, artificial intelligence, machine learning, deep learning, time series
+6
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+DARKO CHEREPNAKOLSKI
+PhD in Computer Science with Focus on Machine Learning and Data Science
+Role: Machine learning, artificial intelligence and data mining operations
+Expertise: Developing machine learning algorithms and models, social network analysis
+
+VITO MARTIN HRZENJAK
+Finance Specialist with International Experience
+Role: Market predictions, connecting Engineers with the market, deep experience in financial sector analysis
+Expertise: Industry analyst with trading, banking and fintech experience
+
+UROS STOISAVLJEVIC
+Specialist in Political Economy and Market Synergies
+Role: Overseeing business development, project management and external communications
+Expertise: Product market synergies, applied commodification and capital multiplication, strategic negotiation, organizational leadership
+
+PATRICIJA JUKIC
+Business Specialist with International Experience
+Role: Business development and improving efficiency of internal business processes
+Expertise: Strategy development, performance improvement, risk management, consulting experience
+
+In addition to our executive team, we expect to further increase our team by cooperating with the best external experts and consultants on the market for legal compliance (blockchain & financial markets), crowdfunding procedure, general business development, and digital marketing.
+
+7
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+MARKET INSIGHT
+‚ÄúI never guess. It is a capital mistake to theorize before one has data.‚Äù - Sir Arthur Conan Doyle
+We perform regular market analysis to keep an eye on the big picture. It is of extreme importance to recognize general market trends to maximize the potential of our developed arbitrage algorithms. Volume, volatility and technological feasibility of API implementations are major determining factors. Therefore, it is at the sole discretion of the team to decide which markets and exchanges will be covered. The decision will always be made in accordance with the value maximization guidelines. Data depicted below represents the most relevant information about the current state of crypto markets. The market is a dynamical growing system and as such is a subject of constant change. The chart below demonstrates BTC dominance in the market that reaches 39% at the time of writing.
+Figure 2. Cryptocurrencies by market capitalization.
+More important metric for arbitrage is 24h trading volume of a certain currency. We can see in the figure below that BTC is again dominating with 1.6 billion USD of trading volume in one day. ETH daily trading volume is exhibiting higher growth and can surpass BTC in case this trend continues. All the currencies listed below have trading volumes large enough for automatic trading execution.
+8
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+Figure 3. Cryptocurrencies listed by 24h trading volume.
+Arbitrage can be executed among different trading pairs. Pairs that exceed 10 million USD in terms of 24h trading volume are listed below. Trading pairs below provide enough liquidity for simultaneous selling and buying procedures executed by our trading algorithms.
+Figure 4. Cryptocurrency trading pairs with daily volume above 10 million USD.
+Tokens deriving from numerous crowdsale projects represent another potential opportunity for arbitrage trading. Besides cryptocurrencies, such tokens are also listed on major exchanges and represent more diverse trading environment that can be exploited. In the first three months, RIALTO.AI will not execute any trades on listed tokens from recent successful crowdsales as the majority of tokens are listed for less than 12 months and sufficient market data for reliable evaluation does not yet exist. We see it as the first potential for expanding our strategy when the market trading parameters for tokens will match the ones of largest cryptocurrencies.
+9
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+Figure 5. Major assets that are listed on crypto exchanges.
+Spread Analysis
+Arbitrage and market making feasibility is dependent on the spread between prices for individual asset. In the growing and especially young markets, spreads and complementary inefficiencies tend to be higher. This is because demand and supply vary according to the characteristics of particular local markets, features of individual exchange, reputation of particular exchange, limitation of capital flows between countries, etc. Cryptocurrency markets exhibit the same evolvement pattern and the price difference can be exploited for a profit while satisfying the need of the market for efficient order matchmaking and liquidity.
+Figure 6. Price volatility is a statistical measure of a price fluctuation. Higher volatility tends to result in more trading opportunities.
+10
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1 Volatility is an important influencing factor that is highly correlated with the arbitrage spread margins. In the times of higher market volatility prices between exchanges tend to vary disproportionately. This increase in margins occurs due to different trading volumes on exchanges, efficiency of the underlying execution systems, and market psychology (e.g. panic selling). As the market settles and observed asset is trading within the narrow channel, the spread margins converge closer.
+Figure 7. Increase of spread margins (Bitstamp-Kraken) in times of increased market volatility during the 48-hour period.
+Number of price divergence events is growing in the cryptocurrency markets. We expect this trend to steadily continue in the near future as new exchanges and gateways are entering the market. The spread margins however are projected to stay the same. If in the medium term, the regulation environment for blockchain and crypto markets improves this would result in establishment of the few institutional and licensed coin exchanges. Therefore the price spreads between the designated exchanges would converge to lower percentage but also enable arbitrage on a larger average volume per trade.
+Figure 8. BTC price comparison in a 3 hour trading window. The visible price difference for different exchanges is exploited by the arbitrage algorithm that executes trades at two exchanges simultaneously.
+11
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1 Key part of the arbitrage algorithm is the selective filtering through the database of available arbitrage events. Arbitrage event is defined as the occurrence of optimal volume match and sufficient price difference between identical assets that enables minimum net margin after transaction fees on both gateways are met.
+Table of arbitrage events is included in Appendix 1. Trade event is labelled every arbitrage event that complies with preconditioned order book depth parameter, and execution slippage indicator.
+Table of trade events is included in Appendix 2.
+Figure 9. Number of total price divergence events for major exchanges.
+Our target amount and hard cap of 10 million USD in nominal value is calculated on the optimal performance we could achieve at the current market volume. In case the market will disproportionately outgrow our projections, we would evaluate potential for expanding to institutional investments, which would further benefit our crowdsale supporters. Calculation is based on the average available arbitrage volume in most recent period on selected exchanges. The change in price of cryptocurrencies used in trading (e.g. BTC and ETH) varies and therefore directly influences the need and optimal amount for liquidity pools and floating capital.
+12
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1 EXAMPLE OF TRADING LIQUIDITY CYCLE ON BTC:
+LIQUIDITY POOL
+FLOATING CAPITAL
+Floating capital consists of cryptocurrencies and fiat assets in circulations which are movable and storable. This capital is crucial and enables ongoing utilisation of arbitrage algorithm. Absence of sufficient floating capital is weighing on performance of small-scale arbitrage and market making funds. We monitor the amount of liquidity pools on every exchange and use a predictive model to estimate when the relocation of floating capital will be necessary. Performing such strategy allows us enough time to relocate assets and optimize running performance.
+13
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+STRATEGY
+‚ÄúThe most powerful force in the universe is compound interest.‚Äù - Albert Einstein
+The competitive advantage of RIALTO.AI is carved into the proprietary nature of algorithms and software tools. They help identify trade opportunities, interpret the historical database, find data patterns, and adjust the parameters in real-time. The in-house research and development of algorithms and trading tools is the main driver behind the success of the fund and will represent the winning edge and growth driver in the future.
+1. Arbitrage
+
+The developed arbitrage algorithm executes simultaneous purchase and sale of a cryptocurrency pair to profit from a difference in the price between different exchanges. The algorithm uses 24/7 live data stream of order books from several exchanges that fulfil the background check criteria. The trading algorithm only executes arbitrage trades when all of the predefined criteria are checked. The control parameters are adjusted in realtime. One simple criterion is sufficient divergence (Fig. 7), i.e., the minimum difference in prices between two exchanges that still enables a profitable trade after netting the execution fees. Another criterion is the depth and the deviation of the market order book, which insures that the trade is executed simultaneously or it does not enter the trade at all.
+In the second development phase, when the representative sample will be big enough for implementation (>30.000 executions), we intend to use machine learning techniques to train the classifier which will automate the decision making process for executing trades. In particular, we will use expert knowledge to extract features, which describe data in the best possible manner. Each criterion will be
+14
+
+Figure 10. Arbitrage flow chart.
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+represented by a set of features. In the last step, we intend to use historical data to train the classifier and fine-tune the classification parameters.
+2. Market Making
+With the market making on less liquid markets, we provide liquidity, reduce average transaction time and earn a fraction of the cost of a traded currency. The market making algorithm is a modification of an arbitrage strategy and includes pushing orders out in contrast to only accepting the existing orders. The greatest potential to be exploited is in creating the market between gateways within the Ripple payment protocol. With the growing number of new gateways, there is an increasing demand for a designated market maker. We are well positioned to benefit from any upside trend in volume and number of transactions.
+We intend to improve automated decision making process with the adoption of machine learning. The decision on exchanges that should be used for the bids and asks will be made by a classifier trained specifically for this purpose. The classifier will take into account the bid and asking prices for each exchange for the particular cryptocurrency, the depth of the order books, and changes of the volatility ratios. The classifier will be trained and tested using the historical data, and validated on the actual real-time data. The algorithm parameters will be adjusted to satisfy the predefined performance metrics (such as the net return, slippage ratio, execution time and others).
+
+Figure 11. Market making flow chart.
+
+15
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+3. AI Tradebot
+(In development)
+
+In finance, if you could monitor all Goldman Sachs‚Äô transactional accounts, you would have the competitive advantage of positioning yourself before the big market movements. In most cryptocurrencies, addresses and transactions are part of a publicly distributed ledger. While it is impossible to follow the accounts and movements manually, we are developing a proprietary self-learning algorithm that will be able to track & pool addresses into matching patterns. In the second step, the algorithm compares transaction flows against the historical data and forms the output of predefined pattern recognition. Focus is on the implementation potential at the three initial levels:
+
+Figure 11. AI tradebot flow chart.
+
+1. Monitoring of crowdsale raised funds within the lock up periods (tracking crowdsale addresses).
+
+2. Recognition pattern for market manipulation schemes such as pump and dump (anomaly in the number of participating transactions from repetitive or connected addresses).
+
+3. Unusual movements (outliers) in the known major institutional addresses. (Satoshi, Kraken etc.)
+
+Forecasting Price Movements
+We use time series approach to monitor and evaluate general trends in selected cryptocurrencies. This helps us identify potential volatility and positioning opportunities on chosen cryptocurrency in the future.
+The value of a cryptocurrency changes with time and, therefore, it can be considered a time series. Artificial intelligence, and especially machine learning methods, are proven to be of essential asset of finding repeating patterns, predicting the future course, and the trend of the time series. Machine learning methods usually use numerous hand-crafted features, some of them representing the expert knowledge and some of them are extracted using statistics of the time-series itself (mean, standard deviation, mean crossing rate). In this way, the machine learning model is able to analyze thousands and sometimes millions of feature vectors in order to learn some patterns and better forecast the future trends. In our approach, we will additionally include contextual information about the current value, which is not present in the time series data itself, but it is known and available for human experts. This contextual information includes lock up periods (for example, tracking crowdsale addresses), movements in the known major institutional addresses (Satoshi, Kraken, etc.), approaching
+16
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+a psychological barriers with the value, the trend of other cryptocurrencies, amount and volume of trades, etc. With the previously described approach we will emulate the behaviour and thinking of an experienced trading person, which takes into account additional contextual information when making the analysis and the prediction of the cryptocurrency value. Artificial intelligence has proven its power and advantage at recognizing general trends, in trading traditional stocks and other time-series analysis tasks. Inspired by this, we focus on creating an artificial intelligence tradebot that will be able to predict the course and the trend of particular cryptocurrency. In particular, we apply two types of predictive models. The first is a classification model, which predicts the direction of the change: whether it is going to be positive, negative or constant. The second algorithm is a forecasting model that will use the input of the first one, and will project the price of the cryptocurrency.
+WHY SUPPORT US?
+‚ÄúFor profit, diversification, and increased efficiency of crypto markets.‚Äù - RIALTO.AI Team
+Arbitrage and market making strategies are not sensitive to one direction price movements, like buy and hold strategies, and therefore enable you to profit in times of both bull (raising prices) and bear market (falling prices). Every cryptocurrency investor is heavily exposed to any potential market corrections, downtrends, or bigger turmoil that could cause the instability of the prices and result in a loss of part, or all of the investor‚Äôs crypto investments. For example, during the last week of May 2017, the total cryptocurrency market lost more than 30% in value over the course of 48 hours. Through investment in arbitrage and market making, you can hedge your existing investments and secure your stream of profits in cases of market downturns or increased volatility. In fact, we embrace volatility as in times of swinging market prices the arbitrage spreads are higher and our profitability margins expands. Vice versa, arbitrage spreads are lower when the markets move in a narrow sideways frame.
+This is why we recommend everyone to hedge their crypto investments and invest part of their portfolio to arbitrage and market making strategies, whether they do this manually by themselves, or they invest in the arbitrage Digital Asset Pool. As a market maker we hold large volumes of assets on different gateways and can fulfil a large amount of orders in the financial markets, ensuring that blockchain users can fill crypto asset orders quickly and efficiently. By providing additional liquidity to the markets, we are reducing the average volatility and maintaining a fair and orderly market. Our project is positioned to evolve into leading arbitrage fund in the field, with the team that has strong and proven background in the industry. We have a perfect market fit combination to follow and benefit from the growing need for connectivity of cryptocurrencies, digital assets, and blockchain transactions.
+17
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+HOW TO PARTICIPATE?
+"While we are making up our minds as to when we shall begin, the opportunity is lost." - Marcus Fabius Quintilianus
+CROWDSALE
+July 15th 2017 - August 15th 2017 or until maximum cap is reached. ACCEPTED CURRENCIES BTC, ETH, XRP TRANSACTION OF CURRENCIES BTC, ETH, XRP can be sent to the list of addresses, which will be published on the RIALTO.AI website before the start of the crowdsale. ALLOCATION OF THE FUNDS: The 75% of the total funds will represent the Digital Asset Pool of the RIALTO.AI. The rest is reserved for software maintenance & development, IT security and compliance, licensing & regulation, outsourcing costs, legal expenses, and incorporation expenses.
+Figure 10. Allocation of funds gathered during crowdsale.
+TOKEN NAME: XRL WHAT DOES IT REPRESENT FOR A SUPPORTER? XRL tokens represent a Proof of Membership in RIALTO.AI Digital Asset Pool. It grants ownership rights to RIALTO.AI proprietary software, data tools, algorithms, and other intellectual property. However, XRL token does not give a supporter any kind of share or equity in any of RIALTO.AI legal entities. Consequently, XRL does not qualify as a security. Legal nature of XRL token will be further described in ‚ÄúGeneral Terms and Conditions.‚Äù
+18
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+NET CREATED VALUE DISTRIBUTION 100% of additional net value created will be distributed semi-annually through distribution of ETH via smart contract. Eligible for distribution are all RIALTO.AI (XRL) token holders on a predetermined record date.
+Figure 11. Semi-annual distribution of created value to token holders.
+WHERE CAN I STORE THE TOKEN? RIALTO.AI will issue a list of supported wallets and recommendations about the ones that fulfil all up to date specifications. TOTAL SUPPLY: 100,000,000 tokens No additional RIALTO.AI (XRL) tokens will ever be created. DISTRIBUTION OF TOKENS: The 75% of total tokens (75 million XRL) will be distributed among the crowdsale supporters. The 15% share (15 million XRL) is reserved for the team within a 180-day lock-up period. The 10% share (10 million XRL) is reserved for the advisory panel and future partners. EXAMPLES OF TOKEN DISTRUBUTION For the case when the total amount equals 10 million USD and the structure of supporters is as follows.
+ÔÇ∑ 4 million USD raised in pre-crowdsale, avg. bonus 20% ÔÇ∑ 3 million USD raised in priority pass, avg. bonus 10% ÔÇ∑ 3 million USD raised in crowdsale, no bonus
+19
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+Example 1: Supporter A invested 300,000 USD in pre-crowdsale with 20% bonus. She will get (k stands for thousand, M stands for million):
+
+300k USD ‚àó 1.2(Ì†µÌ±èÌ†µÌ±úÌ†µÌ±õÌ†µÌ±¢Ì†µÌ±†) 11.1M USD (Ì†µÌ±°Ì†µÌ±úÌ†µÌ±°Ì†µÌ±éÌ†µÌ±ô, Ì†µÌ±ñÌ†µÌ±õÌ†µÌ±êÌ†µÌ±ô. Ì†µÌ±èÌ†µÌ±úÌ†µÌ±õÌ†µÌ±¢Ì†µÌ±†Ì†µÌ±íÌ†µÌ±†)
+
+‚àó
+
+75M
+
+XRL
+
+(Ì†µÌ±°Ì†µÌ±úÌ†µÌ±°Ì†µÌ±éÌ†µÌ±ô
+
+Ì†µÌ±°Ì†µÌ±úÌ†µÌ±òÌ†µÌ±íÌ†µÌ±õÌ†µÌ±†
+
+Ì†µÌ±éÌ†µÌ±£Ì†µÌ±éÌ†µÌ±ñÌ†µÌ±ôÌ†µÌ±éÌ†µÌ±èÌ†µÌ±ôÌ†µÌ±í)
+
+=
+
+2,432,432.43
+
+XRL
+
+Example 2: Supporter B invests 300,000 USD during ICO without bonus. He will get:
+
+300k USD 11.1M USD (Ì†µÌ±°Ì†µÌ±úÌ†µÌ±°Ì†µÌ±éÌ†µÌ±ô, Ì†µÌ±ñÌ†µÌ±õÌ†µÌ±êÌ†µÌ±ô. Ì†µÌ±èÌ†µÌ±úÌ†µÌ±õÌ†µÌ±¢Ì†µÌ±†Ì†µÌ±íÌ†µÌ±†) ‚àó 75M XRL (Ì†µÌ±°Ì†µÌ±úÌ†µÌ±°Ì†µÌ±éÌ†µÌ±ô Ì†µÌ±°Ì†µÌ±úÌ†µÌ±òÌ†µÌ±íÌ†µÌ±õÌ†µÌ±† Ì†µÌ±éÌ†µÌ±£Ì†µÌ±éÌ†µÌ±ñÌ†µÌ±ôÌ†µÌ±éÌ†µÌ±èÌ†µÌ±ôÌ†µÌ±í) = 2,027,027.003 XRL
+
+Crowdsale supporter will get 75,000,000 XRL. Team will get 25,000,000 XRL.
+
+Figure 12. Distribution of RIALTO.AI (XRL) tokens.
+HARD CAP For optimal performance and maximization of fund‚Äôs returns for all supporters, crowdsale is capped and available to a limited number of participants on a first come ‚Äì first serve basis. Crowdsale will finish on 15th of August or at the point where the total raised amount will reach the nominal value of 10.0 million USD. After reaching hard cap, no further funds will be accepted. FLOOR Floor is set to the nominal value of 1.0 million USD. If floor will not be reached, the funds in full amount and it the same currency will be returned to the supporters after the end of the crowdsale.
+20
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+
+PROTECTING SUPPORTERS:
+In order to put RIALTO.AI‚Äôs early supporters in best possible position, RIALTO.AI will introduce several measures before, during and after the crowdsale:
+- Hard cap; - Floor; - Lock-up period (team and external consultants vesting period); - Escrow account (see under ‚ÄúSecurity‚Äù).
+REWARDING OUR EARLY SUPPORTERS
+
+PRE-CROWDSALE
+
+PRIORITY PASS
+
+CROWDSALE
+
+June 26th
+
+July 1st
+
+July 15th
+
+August 15th
+
+Capped at 40%.
+For participation contact us directly via connect@rialto.ai.
+Bonus: 15-25% (amount based).
+
+All subscribed supporters will receive a priority pass to participate before the crowdsale starts (participation is not guaranteed).
+No amount limitations.
+Bonus: 10% (amount based).
+
+Crowdsale is open to all participants.
+Crowdsale finishes on 15th August or once the hard cap is reached.
+No amount limitations.
+Bonus: 5% (first 24h, amount based).
+
+Pre-crowdsale will be available for supporters with the larger allocations and it will be capped to 40% of the hard cap. Bonuses for pre-crowdsale will be determined on an individual level and will be based on the amount and participation terms. Bonuses will range between 15% and 25%.
+All subscribed supporters will receive a priority pass to participate before the crowdsale starts. There will be no limitations for the deposited amount and the amount based bonuses will be fixed to 10%. However, no guarantee is given that all the subscribed supporters will get through, since the overall hard cap will be set to 10 million USD.
+The crowdsale will start on July 15th only if the hard cap will not be reached before the starting date. Crowdsale ends on August 15th or whenever overall hard cap of 10 million USD is reached. Bonuses in the amount of 5% will be issued during the first 24 hours of the crowdsale.
+After the crowdsale, the Advisory Panel will be formed, consisting members who understand the business model and will enable long-term development of the project through industry connections, business know-how, and global market positioning.
+
+21
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+ROADMAP
+‚ÄúScrew it let's do it.‚Äù - Richard Branson
+Crowdsale Timeline
+June 1st Launch of the New Website
+Start of the crowdsale campaign, invitation to supporters.
+June 1st ‚Äì June 2nd Blockchain Expo Berlin
+Our team participated at the event with more than 1500 industry experts from key blockchain industries.
+June 14th ‚Äì June 15th Global Blockchain Conference in Chengdu
+We were present at the GBCC as a proud sponsor of the event. Our live arbitrage dashboard was revealed for the first time.
+June 17th Whitepaper Release
+Introducing the details of crowdfunding opportunities that RIALTO.AI as a cryptocurrency arbitrage and market maker presents.
+June 25th Team Members‚Äô Interviews
+We have decided to give you an in depth presentation of our team, its background, experience, and individual overviews of our project.
+June 14th ‚Äì July 14th Roadshow
+Visiting globally established channels with a goal to be in touch with the community. You will have the opportunity to meet us in St. Petersburg, Ljubljana, and London.
+July 15th Crowdsale Starts
+Beginning of the project funding. Pre-crowdsale allocations for whale supporters and subscribers will be available. (See previous section.)
+August 15th Crowdsale Ends
+Tokens will be distributed within 5 days after the crowdsale finishes. Report on the crowdsale is issued, the team will be available for Q&A.
+22
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+Operational Timeline
+September 15th Digital Asset Pool Inception
+Incorporation of the RIALTO.AI, start of the operational and legal establishing processes.
+October 1st Trading Kickstart
+Assets are allocated on selected gateways and exchanges that fulfil background criteria. Established trading algorithms will connect RIALTO.AI Digital Asset Pool. Weekly trading log will be streamed onto the RIALTO.AI website.
+December 31st First Audited Report
+Report from the inception point and the first running period of two and a half months will be published in accordance with the compliance guidelines given by a third party. Designated auditor will be announced through press release until 15th of September.
+March 15th First Distribution of Created Value
+100% of semi-annual net value created will be distributed through smart contract, proportionally to the RIALTO.AI (XRL) token holders.
+September 1st Single Access Point
+Pilot project of connecting several most reliable exchanges into a single access point platform will be revealed. Test users will be able to transact through a directory of selected gateways.
+23
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+SECURITY
+‚ÄúA watched pot never boils.‚Äù - Someone's grandma
+RIALTO.AI will follow uncompromising guidelines of internal and external compliance in order to influence industry practices and establish itself as the first representative institutional arbitrage and market maker in the blockchain industry.
+All assets under RIALTO.AI ownership will be distributed among different multi signature wallets. Neither of the wallets or transactional accounts will have single point access. Access will be distributed and rotated in accordance with internal compliance factors. Neither of the wallets or transactional accounts will hold more than 10% of the total assets. Recover phrases and key access codes will be secured at the designated bank without single person access. This will be further clarified in the ‚ÄúGeneral terms and conditions.‚Äù
+Security guidelines will include, but will not be limited to: performing internal compliance checks, monitoring of effectiveness, eliminating one-point access to the running algorithms and stored assets, performing a third party audit report, ensure the integrity of data sources, fulfil a background check for partner business entities, transparency of accounting figures, and disclosure of private holdings or other decision influencing factors.
+RIALTO.AI will have an independent auditing process, which will be performed by a third party on a semi-annual basis. The report will cover:
+‚óè Stated balance in terms of assets at funds‚Äô inception ‚óè Overview of placed, burned, and executed transactions, ‚óè Statistical report on distribution of trades by cryptocurrency, exchange, and gateways ‚óè Effectiveness of the Digital Asset Pool allocation and proposed optimization strategies ‚óè Evaluation of compliance procedures and identified shortcomings ‚óè Return on invested capital and risk ratio calculations
+Third party auditing company will be revealed through press release before the inception of RIALTO.AI Digital Asset Pool on 15th September.
+Risk Exposure and Mitigating Factors
+The arbitrage risk exposure that RIALTO.AI has is weighed mostly on the partial amount of funds that are stored at several exchanges in order to be well positioned for arbitrage. Those funds are potentially vulnerable for hacker attacks, denials of service, etc. To mitigate that risk, RIALTO.AI uses a dynamically balancing system of storing majority of funds in cold wallets and only transferring the optimal amount of needed capital for positions. The optimal balance is constantly recalculated using dynamic calibration, to signal the need before the spilling effect among exchanges. Furthermore, Rialto carefully selects only reliable exchanges that pass comprehensive background check (known owner, compliance, secure access points, audit, etc.). RIALTO.AI will on best effort basis ensure all other possible measures to limit all the possible risks.
+24
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+LONG TERM OUTLOOK
+‚ÄúThe people who are crazy enough to think they can change the world are the ones who do.‚Äù - Steve Jobs
+We have a unique opportunity to fully exploit the advantages of being the first and the largest arbitrage and market making fund in the growing industry of blockchain transactions. A successful establishment as the largest market maker will enable us the coverage of the largest number of exchanges and gateways in the blockchain transaction industry, which includes cryptocurrencies, digital assets and payment protocols. In September 2018, the pilot project of connecting several most reliable exchanges into a single point access platform will be revealed. Goal of the project is to test the feasibility of optimal transactional structure, fees, and connectivity of the platform. Subscribed test users will be invited to join beta platform and transact through a directory of selected gateways. A single point access gives you the ability to reach any cryptocurrency at any exchange in the world. RIALTO.AI will be looking into different ways to develop into a platform, where users will be able to buy or sell any crypto asset at the currently best price worldwide. The buyers and sellers will benefit from consolidated supply, transparency of prices, greater pool of available market orders, and most importantly from access simplicity. The long-term goal is to evolve into an entry single point for crypto transactions, as Google is for the search queries.
+Figure 13. Relative comparison of different company and market capitalizations.
+25
+
+Contacts
+http://www.rialto.ai connect@rialto.ai
+Head project manager Vito Martin Hrzenjak +386 70 60 60 84
+vito@rialto.ai Lead Engineer Leon Kocjancic +49 175 617 8365 leon@rialto.ai
+RIALTO AI
+Crypto arbitrage and market maker.
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+APPENDIX 1
+Table of Arbitrage Events
+(12.6. - 17.6.) https://www.rialto.ai/wp-content/uploads/2017/06/Appendix1.pdf
+27
+
+RIALTO.AI | Crypto AI arbitrage and market maker | Whitepaper 1.1
+APPENDIX 2
+Table of Trade Events
+(12.6. - 17.6.) https://www.rialto.ai/wp-content/uploads/2017/06/Appendix2.pdf
+28
+
+
