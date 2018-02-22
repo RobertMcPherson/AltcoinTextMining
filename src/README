@@ -1,1 +1,1 @@
-
+This src directory is for the final production code.  To run it, download all the files to the same directory that contains your PDF files, from which the text is to be extracted.  Then, run the AltCoinTextMining.py file.  All else is automated, from extracting the text, running the Doc2Vec data transformations, to applying the predictived model for scoring.
